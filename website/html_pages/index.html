@@ -3,222 +3,155 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Yeeps ClubHouse</title>
 
-  <title>FanHub</title>
-
-  <link rel="stylesheet" href="../style_sheets/index.css">
+  <link rel="stylesheet" href="../style_sheets/index.css" >
 </head>
 
 <body>
 
-  <!-- =========================
-       NAVBAR
-  ========================== -->
-
-  <nav class="navbar">
+  <!-- ================= NAVBAR ================= -->
+  <header class="navbar">
 
     <div class="logo">
       <div class="logo-box"></div>
-      FanHub
+      Yeeps ClubHouse
     </div>
 
     <div class="search-bar">
-      <input type="text" placeholder="Search projects, tags, creators...">
+      <input type="text" placeholder="Search worlds, fan art, posts..." />
     </div>
 
-    <div class="nav-links">
-      <a href="#">Home</a>
-      <a href="#">Trending</a>
-      <a href="#">Collections</a>
-      <a href="#" class="submit-btn">Submit Site</a>
+    <nav class="nav-links">
+      <a href="#worlds">Community Worlds</a>
+      <a href="#fanart">Yeeps Fan Art</a>
+      <a href="#submit" class="submit-btn">Submit</a>
 
       <div class="theme-toggle" onclick="toggleTheme()">
-        🌙 Theme
+        Theme
       </div>
-    </div>
+    </nav>
 
-  </nav>
+  </header>
 
-  <!-- =========================
-       HERO
-  ========================== -->
 
-  <section class="hero">
+  <!-- ================= MAIN LAYOUT ================= -->
+  <div class="layout" style="display:flex; width:92%; margin:auto; gap:20px;">
 
-    <h1>Discover Fan-Made Experiences</h1>
+    <!-- LEFT INFO PANEL (from your diagram) -->
+    <aside style="
+      width: 260px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      padding: 20px;
+      height: fit-content;
+      box-shadow: var(--shadow);
+    ">
 
-    <p>
-      Explore community-created websites, browser games, projects,
-      and experiments all in one organised hub.
-    </p>
+      <h3 style="margin-bottom:10px;">Page Info</h3>
 
-    <button>Explore Projects</button>
+      <p style="color: var(--text-secondary); line-height:1.6;">
+        Welcome to Yeeps ClubHouse. Explore community worlds, fan art, and featured creations from players.
+      </p>
 
-  </section>
+      <hr style="margin:15px 0; border:1px solid var(--border);">
 
-  <!-- =========================
-       TAGS
-  ========================== -->
+      <p style="color: var(--text-secondary); font-size: 0.9rem;">
+        Tip: Use the search bar above to quickly find content.
+      </p>
 
-  <section class="tags-section">
+    </aside>
 
-    <h2 class="section-title">Popular Tags</h2>
 
-    <div class="tags">
-      <div class="tag">Multiplayer</div>
-      <div class="tag">Anime</div>
-      <div class="tag">Horror</div>
-      <div class="tag">Sandbox</div>
-      <div class="tag">Pixel</div>
-      <div class="tag">RPG</div>
-      <div class="tag">Shooter</div>
-      <div class="tag">Funny</div>
-      <div class="tag">Retro</div>
-      <div class="tag">Browser</div>
-    </div>
+    <!-- ================= MAIN CONTENT ================= -->
+    <main style="flex:1;">
 
-  </section>
+      <!-- HERO -->
+      <section class="hero">
 
-  <!-- =========================
-       PROJECTS
-  ========================== -->
-
-  <section class="projects-section">
-
-    <h2 class="section-title">Featured Projects</h2>
-
-    <div class="project-grid">
-
-      <div class="project-card">
-
-        <div class="thumbnail"></div>
-
-        <div class="project-content">
-
-          <h3>Pixel Battlegrounds</h3>
-
+        <div class="hero-content">
+          <h1>Welcome to Yeeps ClubHouse</h1>
           <p>
-            A fast-paced multiplayer pixel shooter inspired by retro arcade combat.
+            Discover community-made worlds, fan art, and creative builds all in one place.
+            Explore, share, and get inspired.
           </p>
 
-          <div class="card-tags">
-            <div class="card-tag">Shooter</div>
-            <div class="card-tag">Pixel</div>
-            <div class="card-tag">Online</div>
+          <div class="hero-buttons">
+            <button class="primary-btn">Explore Worlds</button>
+            <button class="secondary-btn">View Fan Art</button>
+          </div>
+        </div>
+
+      </section>
+
+
+      <!-- CATEGORIES -->
+      <section class="category-section" id="worlds">
+
+        <h2 class="section-title">Explore Categories</h2>
+        <p class="section-description">
+          Jump into different parts of the community and discover what players are creating.
+        </p>
+
+        <div class="category-grid">
+
+          <div class="category-card">
+            <div class="category-icon">🌍</div>
+            <h3>Community Worlds</h3>
+            <p>Browse custom-built worlds created by Yeeps players from around the community.</p>
+            <button>Explore</button>
           </div>
 
-          <div class="stats">
-            <span>⭐ 4.8</span>
-            <span>👁 12k</span>
-            <span>❤️ 540</span>
+          <div class="category-card" id="fanart">
+            <div class="category-icon">🎨</div>
+            <h3>Yeeps Fan Art</h3>
+            <p>View amazing artwork and creative interpretations made by fans.</p>
+            <button>View Art</button>
           </div>
 
         </div>
 
-      </div>
+      </section>
 
-      <div class="project-card">
 
-        <div class="thumbnail"></div>
+      <!-- INTRODUCTION BLOCKS -->
+      <section class="introduction-section">
 
-        <div class="project-content">
-
-          <h3>Anime Arena</h3>
-
+        <div class="intro-card">
+          <h2>What is Yeeps ClubHouse?</h2>
           <p>
-            A browser-based anime crossover project with multiplayer battles.
+            Yeeps ClubHouse is a community hub where players can explore content,
+            share creations, and connect through fan-made worlds and art.
           </p>
-
-          <div class="card-tags">
-            <div class="card-tag">Anime</div>
-            <div class="card-tag">PvP</div>
-            <div class="card-tag">Action</div>
-          </div>
-
-          <div class="stats">
-            <span>⭐ 4.6</span>
-            <span>👁 8k</span>
-            <span>❤️ 390</span>
-          </div>
-
         </div>
 
-      </div>
-
-      <div class="project-card">
-
-        <div class="thumbnail"></div>
-
-        <div class="project-content">
-
-          <h3>Retro Dungeon</h3>
-
+        <div class="intro-card">
+          <h2>How to use this site</h2>
           <p>
-            Explore randomly generated dungeons with classic RPG mechanics.
+            Use the navigation bar to browse categories, search for content,
+            or submit your own creations to be featured.
           </p>
-
-          <div class="card-tags">
-            <div class="card-tag">RPG</div>
-            <div class="card-tag">Retro</div>
-            <div class="card-tag">Adventure</div>
-          </div>
-
-          <div class="stats">
-            <span>⭐ 4.9</span>
-            <span>👁 18k</span>
-            <span>❤️ 900</span>
-          </div>
-
         </div>
 
-      </div>
+      </section>
 
-      <div class="project-card">
+    </main>
 
-        <div class="thumbnail"></div>
+  </div>
 
-        <div class="project-content">
 
-          <h3>Void Experiments</h3>
-
-          <p>
-            A mysterious horror sandbox project with community-made levels.
-          </p>
-
-          <div class="card-tags">
-            <div class="card-tag">Horror</div>
-            <div class="card-tag">Sandbox</div>
-            <div class="card-tag">Experimental</div>
-          </div>
-
-          <div class="stats">
-            <span>⭐ 4.7</span>
-            <span>👁 6k</span>
-            <span>❤️ 270</span>
-          </div>
-
-        </div>
-
-      </div>
-
-    </div>
-
-  </section>
-
-  <!-- =========================
-       FOOTER
-  ========================== -->
-
+  <!-- ================= FOOTER ================= -->
   <footer>
-    © 2026 FanHub — Community-driven fan project discovery.
+    <p>© 2026 Yeeps ClubHouse. Built for the community.</p>
   </footer>
 
+
+  <!-- ================= THEME TOGGLE SCRIPT ================= -->
   <script>
-
     function toggleTheme() {
-      document.body.classList.toggle('dark');
+      document.body.classList.toggle("light");
     }
-
   </script>
 
 </body>
