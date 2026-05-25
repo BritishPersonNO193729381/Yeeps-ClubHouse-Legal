@@ -1,158 +1,613 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
+
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  />
+
   <title>Yeeps ClubHouse</title>
 
-  <link rel="stylesheet" href="../style_sheets/index.css" >
+  <link
+    rel="stylesheet"
+    href="../style_sheets/index.css"
+  />
+
 </head>
 
 <body>
 
+  <!-- ================= SKY BACKGROUND ================= -->
+
+  <div class="sky-stars"></div>
+  <div class="sky-glow"></div>
+
   <!-- ================= NAVBAR ================= -->
+
   <header class="navbar">
 
     <div class="logo">
-      <div class="logo-box"></div>
-      Yeeps ClubHouse
+
+      <img
+        src="../assets/logos/yeep_purple$nurp.png"
+        alt="Yeeps ClubHouse Logo"
+        class="logo-image"
+      >
+
+      <span>Yeeps ClubHouse</span>
+
     </div>
 
     <div class="search-bar">
-      <input type="text" placeholder="Search worlds, fan art, posts..." />
+
+      <input
+        type="text"
+        placeholder="Search worlds, fan art, websites, creators..."
+      />
+
     </div>
 
     <nav class="nav-links">
-      <a href="#worlds">Community Worlds</a>
-      <a href="#fanart">Yeeps Fan Art</a>
-      <a href="#submit" class="submit-btn">Submit</a>
 
-      <div class="theme-toggle" onclick="toggleTheme()">
-        Theme
+      <a href="#featured">
+        Featured
+      </a>
+
+      <a href="#categories">
+        Categories
+      </a>
+
+      <a href="#trending">
+        Trending
+      </a>
+
+      <a
+        href="#submit"
+        class="submit-btn"
+      >
+        Submit Site
+      </a>
+
+      <div
+        class="theme-toggle"
+        onclick="toggleTheme()"
+      >
+        🌙
       </div>
+
     </nav>
 
   </header>
 
+  <!-- ================= HERO ================= -->
 
-  <!-- ================= MAIN LAYOUT ================= -->
-  <div class="layout" style="display:flex; width:92%; margin:auto; gap:20px;">
+  <section class="hero">
 
-    <!-- LEFT INFO PANEL (from your diagram) -->
-    <aside style="
-      width: 260px;
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 20px;
-      padding: 20px;
-      height: fit-content;
-      box-shadow: var(--shadow);
-    ">
+    <!-- Decorative Elements -->
 
-      <h3 style="margin-bottom:10px;">Page Info</h3>
+    <div class="hero-stars"></div>
 
-      <p style="color: var(--text-secondary); line-height:1.6;">
-        Welcome to Yeeps ClubHouse. Explore community worlds, fan art, and featured creations from players.
+    <div class="hero-cloud cloud-one"></div>
+    <div class="hero-cloud cloud-two"></div>
+
+    <div class="hero-grass"></div>
+
+    <div class="hero-content">
+
+      <div class="hero-badge">
+
+        🌙 Cozy Community-Made Yeeps Hub
+
+      </div>
+
+      <h1>
+
+        Explore The Yeeps Community Web
+
+      </h1>
+
+      <p>
+
+        Discover fan-made Yeeps websites, archived worlds,
+        art galleries, social hubs, creator tools,
+        experiments, and cozy little community projects
+        built by players.
+
       </p>
 
-      <hr style="margin:15px 0; border:1px solid var(--border);">
+      <div class="hero-buttons">
 
-      <p style="color: var(--text-secondary); font-size: 0.9rem;">
-        Tip: Use the search bar above to quickly find content.
-      </p>
+        <button class="primary-btn">
 
-    </aside>
+          Explore Websites
 
+        </button>
 
-    <!-- ================= MAIN CONTENT ================= -->
-    <main style="flex:1;">
+        <button class="secondary-btn">
 
-      <!-- HERO -->
-      <section class="hero">
+          Submit A Project
 
-        <div class="hero-content">
-          <h1>Welcome to Yeeps ClubHouse</h1>
-          <p>
-            Discover community-made worlds, fan art, and creative builds all in one place.
-            Explore, share, and get inspired.
-          </p>
+        </button>
 
-          <div class="hero-buttons">
-            <button class="primary-btn">Explore Worlds</button>
-            <button class="secondary-btn">View Fan Art</button>
-          </div>
+      </div>
+
+      <!-- ================= HERO STATS ================= -->
+
+      <div class="hero-stats">
+
+        <div class="stat-card">
+
+          <h3>240+</h3>
+
+          <p>Community Websites</p>
+
         </div>
 
-      </section>
+        <div class="stat-card">
 
+          <h3>75+</h3>
 
-      <!-- CATEGORIES -->
-      <section class="category-section" id="worlds">
+          <p>Community Creators</p>
 
-        <h2 class="section-title">Explore Categories</h2>
-        <p class="section-description">
-          Jump into different parts of the community and discover what players are creating.
+        </div>
+
+        <div class="stat-card">
+
+          <h3>1.8k</h3>
+
+          <p>Monthly Visitors</p>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ================= FEATURED ================= -->
+
+  <section
+    class="website-section"
+    id="featured"
+  >
+
+    <div class="section-header">
+
+      <div>
+
+        <h2 class="section-title">
+
+          Featured Community Websites
+
+        </h2>
+
+        <p class="section-subtitle">
+
+          Cozy little corners of the Yeeps community web.
+
         </p>
 
-        <div class="category-grid">
+      </div>
 
-          <div class="category-card">
-            <div class="category-icon">🌍</div>
-            <h3>Community Worlds</h3>
-            <p>Browse custom-built worlds created by Yeeps players from around the community.</p>
-            <button>Explore</button>
+      <a
+        href="#"
+        class="view-all"
+      >
+        View All
+      </a>
+
+    </div>
+
+    <div class="website-grid">
+
+      <!-- ================= CARD ================= -->
+
+      <div class="website-card">
+
+        <div class="website-thumbnail thumbnail-worlds">
+
+          <div class="thumbnail-overlay"></div>
+
+        </div>
+
+        <div class="website-content">
+
+          <h3>
+
+            Yeeps World Archive
+
+          </h3>
+
+          <p>
+
+            Browse archived community worlds,
+            hidden builds, experiments,
+            and nostalgic creations shared by players.
+
+          </p>
+
+          <div class="website-tags">
+
+            <div class="website-tag">
+              Worlds
+            </div>
+
+            <div class="website-tag">
+              Archive
+            </div>
+
+            <div class="website-tag">
+              Community
+            </div>
+
           </div>
 
-          <div class="category-card" id="fanart">
-            <div class="category-icon">🎨</div>
-            <h3>Yeeps Fan Art</h3>
-            <p>View amazing artwork and creative interpretations made by fans.</p>
-            <button>View Art</button>
+          <div class="website-footer">
+
+            <span>
+              ⭐ 4.8
+            </span>
+
+            <span>
+              12k Visits
+            </span>
+
           </div>
 
         </div>
 
-      </section>
+      </div>
 
+      <!-- ================= CARD ================= -->
 
-      <!-- INTRODUCTION BLOCKS -->
-      <section class="introduction-section">
+      <div class="website-card">
 
-        <div class="intro-card">
-          <h2>What is Yeeps ClubHouse?</h2>
-          <p>
-            Yeeps ClubHouse is a community hub where players can explore content,
-            share creations, and connect through fan-made worlds and art.
-          </p>
+        <div class="website-thumbnail thumbnail-art">
+
+          <div class="thumbnail-overlay"></div>
+
         </div>
 
-        <div class="intro-card">
-          <h2>How to use this site</h2>
+        <div class="website-content">
+
+          <h3>
+
+            Yeeps Fan Gallery
+
+          </h3>
+
           <p>
-            Use the navigation bar to browse categories, search for content,
-            or submit your own creations to be featured.
+
+            A fan-made gallery featuring
+            community artwork, renders,
+            concepts, and creator showcases.
+
           </p>
+
+          <div class="website-tags">
+
+            <div class="website-tag">
+              Fan Art
+            </div>
+
+            <div class="website-tag">
+              Gallery
+            </div>
+
+            <div class="website-tag">
+              Artists
+            </div>
+
+          </div>
+
+          <div class="website-footer">
+
+            <span>
+              ⭐ 4.9
+            </span>
+
+            <span>
+              8k Visits
+            </span>
+
+          </div>
+
         </div>
 
-      </section>
+      </div>
 
-    </main>
+      <!-- ================= CARD ================= -->
 
-  </div>
+      <div class="website-card">
 
+        <div class="website-thumbnail thumbnail-social">
+
+          <div class="thumbnail-overlay"></div>
+
+        </div>
+
+        <div class="website-content">
+
+          <h3>
+
+            ClubHouse Social
+
+          </h3>
+
+          <p>
+
+            A relaxed community space where Yeeps
+            players share creations,
+            screenshots, projects, and ideas.
+
+          </p>
+
+          <div class="website-tags">
+
+            <div class="website-tag">
+              Social
+            </div>
+
+            <div class="website-tag">
+              Projects
+            </div>
+
+            <div class="website-tag">
+              Community
+            </div>
+
+          </div>
+
+          <div class="website-footer">
+
+            <span>
+              ⭐ 4.7
+            </span>
+
+            <span>
+              5k Visits
+            </span>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ================= CATEGORIES ================= -->
+
+  <section
+    class="shortcuts-section"
+    id="categories"
+  >
+
+    <div class="section-header">
+
+      <div>
+
+        <h2 class="section-title">
+
+          Explore Categories
+
+        </h2>
+
+        <p class="section-subtitle">
+
+          Jump into different cozy areas
+          of the Yeeps community.
+
+        </p>
+
+      </div>
+
+    </div>
+
+    <div class="shortcuts">
+
+      <div class="shortcut">
+        🌍 Community Worlds
+      </div>
+
+      <div class="shortcut">
+        🎨 Yeeps Fan Art
+      </div>
+
+      <div class="shortcut">
+        💻 Yeeps Websites
+      </div>
+
+      <div class="shortcut">
+        ⭐ Featured Projects
+      </div>
+
+      <div class="shortcut">
+        🆕 Recently Added
+      </div>
+
+      <div class="shortcut">
+        🌙 Cozy Websites
+      </div>
+
+    </div>
+
+  </section>
+
+  <!-- ================= TRENDING ================= -->
+
+  <section
+    class="website-section"
+    id="trending"
+  >
+
+    <div class="section-header">
+
+      <div>
+
+        <h2 class="section-title">
+
+          Trending This Week
+
+        </h2>
+
+        <p class="section-subtitle">
+
+          Community projects players
+          are exploring the most right now.
+
+        </p>
+
+      </div>
+
+    </div>
+
+    <div class="website-grid">
+
+      <!-- ================= CARD ================= -->
+
+      <div class="website-card">
+
+        <div class="website-thumbnail thumbnail-retro">
+
+          <div class="thumbnail-overlay"></div>
+
+        </div>
+
+        <div class="website-content">
+
+          <h3>
+
+            Retro Yeeps Hub
+
+          </h3>
+
+          <p>
+
+            A nostalgic Yeeps-inspired archive
+            filled with screenshots,
+            memories, and old community worlds.
+
+          </p>
+
+          <div class="website-tags">
+
+            <div class="website-tag">
+              Retro
+            </div>
+
+            <div class="website-tag">
+              Archive
+            </div>
+
+          </div>
+
+          <div class="website-footer">
+
+            <span>
+              🔥 Trending
+            </span>
+
+            <span>
+              14k Visits
+            </span>
+
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- ================= CARD ================= -->
+
+      <div class="website-card">
+
+        <div class="website-thumbnail thumbnail-tools">
+
+          <div class="thumbnail-overlay"></div>
+
+        </div>
+
+        <div class="website-content">
+
+          <h3>
+
+            Yeeps Creator Tools
+
+          </h3>
+
+          <p>
+
+            Community-made tools and utilities
+            designed to help creators
+            organise and build projects.
+
+          </p>
+
+          <div class="website-tags">
+
+            <div class="website-tag">
+              Tools
+            </div>
+
+            <div class="website-tag">
+              Utility
+            </div>
+
+          </div>
+
+          <div class="website-footer">
+
+            <span>
+              ⭐ Popular
+            </span>
+
+            <span>
+              9k Visits
+            </span>
+
+          </div>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </section>
 
   <!-- ================= FOOTER ================= -->
+
   <footer>
-    <p>© 2026 Yeeps ClubHouse. Built for the community.</p>
+
+    <p>
+
+      🌙 © 2026 Yeeps ClubHouse —
+      Built for the Yeeps community.
+
+    </p>
+
   </footer>
 
+  <!-- ================= THEME TOGGLE ================= -->
 
-  <!-- ================= THEME TOGGLE SCRIPT ================= -->
   <script>
+
     function toggleTheme() {
+
       document.body.classList.toggle("light");
+
     }
+
   </script>
 
 </body>
+
 </html>
