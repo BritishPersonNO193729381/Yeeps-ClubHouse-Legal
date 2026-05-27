@@ -21,11 +21,6 @@
 
 <body>
 
-  <!-- ================= SKY BACKGROUND ================= -->
-
-  <div class="sky-stars"></div>
-  <div class="sky-glow"></div>
-
   <!-- ================= NAVBAR ================= -->
 
   <header class="navbar">
@@ -39,15 +34,6 @@
       >
 
       <span>Yeeps ClubHouse</span>
-
-    </div>
-
-    <div class="search-bar">
-
-      <input
-        type="text"
-        placeholder="Search worlds, fan art, websites, creators..."
-      />
 
     </div>
 
@@ -72,96 +58,61 @@
         Submit Site
       </a>
 
-      <div
-        class="theme-toggle"
-        onclick="toggleTheme()"
-      >
-        🌙
-      </div>
-
     </nav>
 
   </header>
 
   <!-- ================= HERO ================= -->
 
+  <!--
+    DEFAULT HERO VERSION
+    Uses built-in gradients + stars automatically
+  -->
+
   <section class="hero">
 
-    <!-- Decorative Elements -->
+    <!-- HERO IMAGE -->
 
-    <div class="hero-stars"></div>
+    <div class="hero-media">
 
-    <div class="hero-cloud cloud-one"></div>
-    <div class="hero-cloud cloud-two"></div>
+      <img
+        src="../assets/backgrounds/suburb-skybox.png"
+        alt="Hero Background... if not loaded, report as a bug!"
+      />
 
-    <div class="hero-grass"></div>
+    </div>
+
+    <!-- DARK OVERLAY -->
+
+    <div class="hero-overlay"></div>
+
+    <!-- CONTENT -->
 
     <div class="hero-content">
 
-      <div class="hero-badge">
-
-        🌙 Cozy Community-Made Yeeps Hub
-
-      </div>
-
-      <h1>
-
-        Explore The Yeeps Community Web
-
+      <h1 class="hero-title">
+        Welcome To the Yeeps: ClubHouse!
       </h1>
 
-      <p>
-
-        Discover fan-made Yeeps websites, archived worlds,
-        art galleries, social hubs, creator tools,
-        experiments, and cozy little community projects
-        built by players.
-
+      <p class="hero-text">
+        Explore community websites, Fan-Made Art, Tools for Yeeps and more!
       </p>
 
       <div class="hero-buttons">
 
-        <button class="primary-btn">
+        <a
+          href="#"
+          class="hero-btn primary"
+        >
+          Explore
+        </a>
 
-          Explore Websites
-
-        </button>
-
-        <button class="secondary-btn">
-
-          Submit A Project
-
-        </button>
-
-      </div>
-
-      <!-- ================= HERO STATS ================= -->
-
-      <div class="hero-stats">
-
-        <div class="stat-card">
-
-          <h3>240+</h3>
-
-          <p>Community Websites</p>
-
-        </div>
-
-        <div class="stat-card">
-
-          <h3>75+</h3>
-
-          <p>Community Creators</p>
-
-        </div>
-
-        <div class="stat-card">
-
-          <h3>1.8k</h3>
-
-          <p>Monthly Visitors</p>
-
-        </div>
+        <a
+          href="#"
+          class="hero-btn secondary"
+        >
+          Community
+        </a>
 
       </div>
 
@@ -172,34 +123,23 @@
   <!-- ================= FEATURED ================= -->
 
   <section
-    class="website-section"
+    class="section"
     id="featured"
   >
 
     <div class="section-header">
 
-      <div>
+      <h2 class="section-title">
 
-        <h2 class="section-title">
+        Featured Community Websites
 
-          Featured Community Websites
+      </h2>
 
-        </h2>
+      <p class="section-subtitle">
 
-        <p class="section-subtitle">
+        Cozy little corners of the Yeeps community web.
 
-          Cozy little corners of the Yeeps community web.
-
-        </p>
-
-      </div>
-
-      <a
-        href="#"
-        class="view-all"
-      >
-        View All
-      </a>
+      </p>
 
     </div>
 
@@ -209,53 +149,46 @@
 
       <div class="website-card">
 
-        <div class="website-thumbnail thumbnail-worlds">
+        <!-- DEFAULT THUMBNAIL -->
 
-          <div class="thumbnail-overlay"></div>
+        <div class="website-thumbnail">
+
+          <img
+            src="../assets/backgrounds/Web-Explorer-Thumbnail.png"
+            alt="Yeeps Web Explorer"
+          >
 
         </div>
 
         <div class="website-content">
 
-          <h3>
+          <h3 class="website-title">
 
-            Yeeps World Archive
+            Yeeps: Web Explorer
 
           </h3>
 
-          <p>
+          <p class="website-description">
 
-            Browse archived community worlds,
-            hidden builds, experiments,
-            and nostalgic creations shared by players.
+            Browse A fun collection of websites that players have created to share their projects, tools, and cozy corners of the Yeeps community.
 
           </p>
 
-          <div class="website-tags">
+          <div class="website-actions">
 
-            <div class="website-tag">
-              Worlds
-            </div>
+            <a
+              href="#"
+              class="website-link primary"
+            >
+              Explore
+            </a>
 
-            <div class="website-tag">
-              Archive
-            </div>
-
-            <div class="website-tag">
-              Community
-            </div>
-
-          </div>
-
-          <div class="website-footer">
-
-            <span>
-              ⭐ 4.8
-            </span>
-
-            <span>
-              12k Visits
-            </span>
+            <a
+              href="#"
+              class="website-link secondary"
+            >
+              More Info
+            </a>
 
           </div>
 
@@ -267,21 +200,26 @@
 
       <div class="website-card">
 
-        <div class="website-thumbnail thumbnail-art">
+        <!-- CUSTOM IMAGE THUMBNAIL -->
 
-          <div class="thumbnail-overlay"></div>
+        <div class="website-thumbnail">
+
+          <img
+            src="../assets/backgrounds/Art-Thumbnail.png"
+            alt="Yeeps Art Gallery Image"
+          >
 
         </div>
 
         <div class="website-content">
 
-          <h3>
+          <h3 class="website-title">
 
-            Yeeps Fan Gallery
+            Yeeps: Art Gallery
 
           </h3>
 
-          <p>
+          <p class="website-description">
 
             A fan-made gallery featuring
             community artwork, renders,
@@ -289,31 +227,21 @@
 
           </p>
 
-          <div class="website-tags">
+          <div class="website-actions">
 
-            <div class="website-tag">
-              Fan Art
-            </div>
+            <a
+              href="#"
+              class="website-link primary"
+            >
+              Visit
+            </a>
 
-            <div class="website-tag">
+            <a
+              href="#"
+              class="website-link secondary"
+            >
               Gallery
-            </div>
-
-            <div class="website-tag">
-              Artists
-            </div>
-
-          </div>
-
-          <div class="website-footer">
-
-            <span>
-              ⭐ 4.9
-            </span>
-
-            <span>
-              8k Visits
-            </span>
+            </a>
 
           </div>
 
@@ -325,53 +253,55 @@
 
       <div class="website-card">
 
-        <div class="website-thumbnail thumbnail-social">
+        <!-- CUSTOM VIDEO THUMBNAIL -->
 
-          <div class="thumbnail-overlay"></div>
+        <div class="website-thumbnail">
+
+          <video
+            autoplay
+            muted
+            loop
+            playsinline
+          >
+
+            <source
+              src="../assets/videos/community.mp4"
+              type="video/mp4"
+            >
+
+          </video>
 
         </div>
 
         <div class="website-content">
 
-          <h3>
+          <h3 class="website-title">
 
-            ClubHouse Social
+            Yeeps: Community World Finder
 
           </h3>
 
-          <p>
+          <p class="website-description">
 
-            A relaxed community space where Yeeps
-            players share creations,
-            screenshots, projects, and ideas.
+            A place to find alot of different community worlds, maps, and player creations to explore and get inspired by.
 
           </p>
 
-          <div class="website-tags">
+          <div class="website-actions">
 
-            <div class="website-tag">
-              Social
-            </div>
+            <a
+              href="#"
+              class="website-link primary"
+            >
+              Join
+            </a>
 
-            <div class="website-tag">
-              Projects
-            </div>
-
-            <div class="website-tag">
+            <a
+              href="#"
+              class="website-link secondary"
+            >
               Community
-            </div>
-
-          </div>
-
-          <div class="website-footer">
-
-            <span>
-              ⭐ 4.7
-            </span>
-
-            <span>
-              5k Visits
-            </span>
+            </a>
 
           </div>
 
@@ -386,55 +316,93 @@
   <!-- ================= CATEGORIES ================= -->
 
   <section
-    class="shortcuts-section"
+    class="section"
     id="categories"
   >
 
     <div class="section-header">
 
-      <div>
+      <h2 class="section-title">
 
-        <h2 class="section-title">
+        Explore Categories
 
-          Explore Categories
+      </h2>
 
-        </h2>
+      <p class="section-subtitle">
 
-        <p class="section-subtitle">
+        Jump into different cozy areas
+        of the the Yeeps community.
 
-          Jump into different cozy areas
-          of the Yeeps community.
-
-        </p>
-
-      </div>
+      </p>
 
     </div>
 
-    <div class="shortcuts">
+    <div class="website-grid">
 
-      <div class="shortcut">
-        🌍 Community Worlds
+      <div class="website-card">
+
+        <div class="website-content">
+
+          <h3 class="website-title">
+
+            🌍 Community Worlds
+
+          </h3>
+
+          <p class="website-description">
+
+            Explore creative worlds,
+            archived maps, and
+            nostalgic player creations.
+
+          </p>
+
+        </div>
+
       </div>
 
-      <div class="shortcut">
-        🎨 Yeeps Fan Art
+      <div class="website-card">
+
+        <div class="website-content">
+
+          <h3 class="website-title">
+
+            🎨 Yeeps Fan Art
+
+          </h3>
+
+          <p class="website-description">
+
+            Browse illustrations,
+            renders, concepts,
+            and artist showcases.
+
+          </p>
+
+        </div>
+
       </div>
 
-      <div class="shortcut">
-        💻 Yeeps Websites
-      </div>
+      <div class="website-card">
 
-      <div class="shortcut">
-        ⭐ Featured Projects
-      </div>
+        <div class="website-content">
 
-      <div class="shortcut">
-        🆕 Recently Added
-      </div>
+          <h3 class="website-title">
 
-      <div class="shortcut">
-        🌙 Cozy Websites
+            💻 Yeeps Websites
+
+          </h3>
+
+          <p class="website-description">
+
+            Discover fan-made tools,
+            projects, social hubs,
+            and cozy websites.
+
+          </p>
+
+        </div>
+
       </div>
 
     </div>
@@ -444,28 +412,24 @@
   <!-- ================= TRENDING ================= -->
 
   <section
-    class="website-section"
+    class="section"
     id="trending"
   >
 
     <div class="section-header">
 
-      <div>
+      <h2 class="section-title">
 
-        <h2 class="section-title">
+        Trending This Week
 
-          Trending This Week
+      </h2>
 
-        </h2>
+      <p class="section-subtitle">
 
-        <p class="section-subtitle">
+        Community projects players
+        are exploring the most right now.
 
-          Community projects players
-          are exploring the most right now.
-
-        </p>
-
-      </div>
+      </p>
 
     </div>
 
@@ -475,21 +439,17 @@
 
       <div class="website-card">
 
-        <div class="website-thumbnail thumbnail-retro">
-
-          <div class="thumbnail-overlay"></div>
-
-        </div>
+        <div class="website-thumbnail default-thumbnail"></div>
 
         <div class="website-content">
 
-          <h3>
+          <h3 class="website-title">
 
             Retro Yeeps Hub
 
           </h3>
 
-          <p>
+          <p class="website-description">
 
             A nostalgic Yeeps-inspired archive
             filled with screenshots,
@@ -497,27 +457,21 @@
 
           </p>
 
-          <div class="website-tags">
+          <div class="website-actions">
 
-            <div class="website-tag">
-              Retro
-            </div>
+            <a
+              href="#"
+              class="website-link primary"
+            >
+              Explore
+            </a>
 
-            <div class="website-tag">
+            <a
+              href="#"
+              class="website-link secondary"
+            >
               Archive
-            </div>
-
-          </div>
-
-          <div class="website-footer">
-
-            <span>
-              🔥 Trending
-            </span>
-
-            <span>
-              14k Visits
-            </span>
+            </a>
 
           </div>
 
@@ -529,21 +483,17 @@
 
       <div class="website-card">
 
-        <div class="website-thumbnail thumbnail-tools">
-
-          <div class="thumbnail-overlay"></div>
-
-        </div>
+        <div class="website-thumbnail default-thumbnail"></div>
 
         <div class="website-content">
 
-          <h3>
+          <h3 class="website-title">
 
             Yeeps Creator Tools
 
           </h3>
 
-          <p>
+          <p class="website-description">
 
             Community-made tools and utilities
             designed to help creators
@@ -551,27 +501,21 @@
 
           </p>
 
-          <div class="website-tags">
+          <div class="website-actions">
 
-            <div class="website-tag">
-              Tools
-            </div>
+            <a
+              href="#"
+              class="website-link primary"
+            >
+              Open Tools
+            </a>
 
-            <div class="website-tag">
-              Utility
-            </div>
-
-          </div>
-
-          <div class="website-footer">
-
-            <span>
-              ⭐ Popular
-            </span>
-
-            <span>
-              9k Visits
-            </span>
+            <a
+              href="#"
+              class="website-link secondary"
+            >
+              Resources
+            </a>
 
           </div>
 
@@ -585,7 +529,7 @@
 
   <!-- ================= FOOTER ================= -->
 
-  <footer>
+  <footer class="footer">
 
     <p>
 
@@ -595,18 +539,6 @@
     </p>
 
   </footer>
-
-  <!-- ================= THEME TOGGLE ================= -->
-
-  <script>
-
-    function toggleTheme() {
-
-      document.body.classList.toggle("light");
-
-    }
-
-  </script>
 
 </body>
 
