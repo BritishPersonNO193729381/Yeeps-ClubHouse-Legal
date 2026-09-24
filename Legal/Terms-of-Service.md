@@ -7,18 +7,18 @@ These Terms of Service ("Terms") explain the rules for using Yeeps ClubHouse, in
 
 By accessing or using the Service, you agree to follow these Terms. If you do not agree with them, please do not use the Service.
 
-> **Important:** These Terms are written to describe the current Yeeps ClubHouse service and community rules. They are not legal advice. The operator should review the final version, replace any remaining contact placeholders, and obtain appropriate legal advice if a legally enforceable contract is required.
+> **Important:** These Terms are written to describe the current Yeeps ClubHouse service and community rules. They are not legal advice. The operator should review the final version and obtain appropriate legal advice if a legally enforceable contract is required.
 
 ---
 
 ## 1. About Yeeps ClubHouse
 
-Yeeps ClubHouse is a community project operated by its website owner.
+Yeeps ClubHouse is a community project operated by its website owner. The Service includes the public website, supporting APIs, Discord-connected authentication and notifications, staff and community information pages, and the Web Explorer.
 
 The Service may provide features including:
 
 - Discord-based authentication;
-- community and staff information;
+- community and staff information pages;
 - the Yeeps ClubHouse Web Explorer;
 - user-submitted website listings;
 - website icons, banners and other submitted images;
@@ -385,17 +385,11 @@ The Privacy Policy forms part of the information provided to users about the Ser
 
 ---
 
-## 18. Children and safeguarding
+## 18. Reporting and legal notices
 
-Yeeps ClubHouse takes the safety of younger users seriously.
+For questions about these Terms, privacy, moderation, safeguarding, website submissions, or other Yeeps ClubHouse concerns, use the contact method in Section 22.
 
-We aim to maintain an environment where teenagers who are permitted to use the Service are not exposed to unnecessary mature or sexual content.
-
-Accordingly, content involving sexual exploitation of minors, grooming, sexual solicitation of minors, child sexual abuse material, or attempts to obtain sexual or intimate material from minors is strictly prohibited.
-
-Such material must **not** be uploaded to or distributed through Yeeps ClubHouse.
-
-If you encounter suspected child sexual abuse material or another serious safeguarding issue, do not download, redistribute or intentionally collect the material. Report the issue through the appropriate reporting route.
+When reporting a security vulnerability, safeguarding concern, or privacy issue, include only the information reasonably necessary to explain the issue. Do not send passwords, authentication codes, financial information, intimate material, or other unnecessary sensitive information through Discord.
 
 ---
 
@@ -431,7 +425,8 @@ We do not guarantee that user-submitted information is:
 - suitable for every audience;
 - independently verified.
 
-Users should make their own decisions about whether to interact with external websites or content.
+Users should make their own decisions about whether to interact with external websites or content based on wether or
+not they are suitable for its general demographic or not.
 
 ---
 
@@ -447,11 +442,11 @@ Continued use of the Service after updated Terms are published may constitute ac
 
 ## 22. Contact
 
-If you need to contact Yeeps ClubHouse about these Terms, moderation, privacy, security or safeguarding, use the official contact method provided by the website.
+If you need to contact Yeeps ClubHouse about these Terms, moderation, privacy, security, safeguarding, or website submissions, contact the operator through Discord using the username **british_personn**.
 
 **Website:** https://www.yeepsclubhouse.website
 
-**Contact:** [ADD YOUR OFFICIAL CONTACT EMAIL OR OTHER CONTACT METHOD]
+**Contact:** Discord username **british_personn**
 
 ---
 
