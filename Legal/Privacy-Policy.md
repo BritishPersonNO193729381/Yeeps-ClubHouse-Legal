@@ -17,9 +17,9 @@ For data protection purposes, the person operating Yeeps ClubHouse is responsibl
 
 **Website:** https://www.yeepsclubhouse.website
 
-**Privacy contact:** [ADD YOUR PRIVACY CONTACT EMAIL OR OTHER CONTACT METHOD]
+**Privacy contact:** Discord username **british_personn**
 
-If you have a question about your personal information, please use the privacy contact above.
+If you have a question about your personal information, please contact the operator through Discord at **british_personn**. Please include enough information for us to understand your request, but do not send passwords, authentication codes, financial information, or other sensitive information in a Discord message or you will be blocked and reported.
 
 ---
 
@@ -289,15 +289,21 @@ Depending on the circumstances and applicable law, you may have rights including
 
 These rights are not absolute and exceptions can apply.
 
-To exercise a right, contact us using:
+To exercise a right, contact us through Discord at **british_personn**. Please do not include passwords, authentication codes, financial information, or other sensitive information in your initial message. Please state what country you live in if you intend to excercise these rights.
 
-**[ADD YOUR PRIVACY CONTACT EMAIL OR OTHER CONTACT METHOD]**
-
-We may need to verify your identity before completing a request, particularly where the request would disclose personal information.
+We may need to verify your identity (and ownership of your data) before completing a request, particularly where the request would disclose personal information.
 
 ---
 
-## 10. Complaints
+## 10. How to make a privacy request
+
+You can contact us through Discord at **british_personn** to ask a question, exercise a data protection right, or report a privacy concern. Please identify the account, website submission, or information concerned where possible.
+
+We may ask for reasonable additional information to verify that a request relates to you. This helps us avoid disclosing or deleting another person's information. We will respond within the period required by applicable law, or explain if an extension or refusal is permitted.
+
+If you contact us through Discord, the message itself may be processed by Discord and may be retained in your Discord account or our records as necessary to handle the request.
+
+## 11. Complaints
 
 If you are unhappy with how Yeeps ClubHouse has handled your personal information, please contact us first using the privacy contact above so that we can investigate the issue.
 
@@ -311,7 +317,13 @@ The ICO is the UK's independent supervisory authority for data protection.
 
 ---
 
-## 11. Security
+## 12. Security incidents
+
+If we become aware of a security incident involving personal information, we will assess the incident and take reasonable steps to contain it, investigate what happened, restore the service, and reduce the risk of recurrence. Where applicable law requires notification to users or a supervisory authority, we will make that notification within the required timeframe.
+
+In the event of such an event.
+
+## 13. Security
 
 We take reasonable technical and organisational measures to protect information held by Yeeps ClubHouse.
 
@@ -331,17 +343,17 @@ No internet service can guarantee absolute security. If a security incident mate
 
 ---
 
-## 12. Children's privacy
+## 14. Children's privacy
 
 Yeeps ClubHouse is not intended to collect unnecessary personal information from children.
 
 Users should not submit sensitive personal information about themselves or other people through website descriptions, images, reports, or other user-generated content.
 
-If you believe that a child has provided personal information to Yeeps ClubHouse in a way that should not have happened, please contact us using the privacy contact above.
+If you believe that a child has provided personal information to Yeeps ClubHouse in a way that should not have happened, please contact us using the privacy contact above. If the minor in question cannot create a request, a legal guardian can act on their behalf and with their own, explicit permission.
 
 ---
 
-## 13. Third-party websites
+## 15. Third-party websites
 
 The Web Explorer contains links to websites submitted by users.
 
@@ -353,7 +365,7 @@ You should review the privacy policy of a third-party website before providing i
 
 ---
 
-## 14. User-submitted images and content
+## 16. User-submitted images and content
 
 Users are responsible for ensuring that they have the necessary rights and permissions to submit images, text, logos, and other content.
 
@@ -370,9 +382,17 @@ Images intended for the Web Explorer may be publicly accessible because they are
 
 Cloudinary specifically warns that uploaded content can be publicly accessible by default within its service. Users should therefore treat Web Explorer images as public content rather than private storage.
 
+Removing an account or deleting a submission may not remove copies that have already been cached, downloaded, quoted, or republished by other people or third-party services. We may also retain limited records where necessary for security, moderation, dispute resolution, legal compliance, or the defence of legal claims.
+
+## 17. Automated processing and moderation
+
+Some submitted content may be checked by automated moderation or image-analysis tools. These checks may produce flags, scores, or other recommendations that are reviewed or used to help enforce the site's rules.
+
+Automated checks can be inaccurate. Where applicable law provides a right to human review or an opportunity to challenge a decision based solely on automated processing, you can contact us through Discord at **british_personn**.
+
 ---
 
-## 15. Changes to this Privacy Policy
+## 18. Changes to this Privacy Policy
 
 We may update this Privacy Policy when the website changes, when our data-processing practices change, when third-party services change, or when legal requirements change.
 
@@ -382,13 +402,13 @@ Where a change is significant, we will take reasonable steps to bring the change
 
 ---
 
-## 16. Contact
+## 19. Contact
 
 For privacy questions, data requests, or concerns about this policy:
 
 **Yeeps ClubHouse**  
 Website: https://www.yeepsclubhouse.website  
-Privacy contact: **[ADD YOUR PRIVACY CONTACT EMAIL OR OTHER CONTACT METHOD]**
+Privacy contact: Discord **british_personn**
 
 ---
 
