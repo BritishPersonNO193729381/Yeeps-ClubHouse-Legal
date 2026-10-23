@@ -196,6 +196,7 @@ The governing law and courts for these Terms must be confirmed by the operator b
 **Service:** Yeeps ClubHouse  
 **Website:** https://www.yeepsclubhouse.website  
 **Discord contact:** british_personn
+**Support Contact:** yeepsclubhouse@gmail.com
 
 ## 25. Acceptance
 
@@ -206,5 +207,5 @@ If you do not agree with these Terms, do not use the Service. This acceptance cl
 ---
 
 **Yeeps ClubHouse**  
-Community website and Web Explorer  
+A website that empowers the imagination of all.
 https://www.yeepsclubhouse.website
