@@ -1,425 +1,161 @@
 # Yeeps ClubHouse Privacy Policy
 
-**Effective date:** 24 September 2026  
-**Last updated:** 24 September 2026
+**Effective date:** 23 October 2026  
+**Last updated:** 23 October 2026
 
-Yeeps ClubHouse ("Yeeps ClubHouse", "we", "us", or "our") is a community website and Web Explorer service operated by the website owner.
+## 1. Introduction
 
-This Privacy Policy explains what information Yeeps ClubHouse collects, why it is used, where it is stored, how long it is kept, and the choices available to users.
+Yeeps ClubHouse ("Yeeps ClubHouse", "we", "us", or "our") is a collection of community-focused online services. Depending on the service, this may include websites, directories, user-submission tools, applications, APIs, Discord bots, community features, staff tools, and related functionality. This Privacy Policy provides a common, umbrella explanation of how personal information may be handled across those services.
 
-> **Important:** This document is intended to describe the current Yeeps ClubHouse implementation. It is not legal advice. The operator should review the final policy and replace any remaining placeholders before publishing it as the site's formal privacy notice.
+Not every service uses every feature, collects every category of information, or relies on every provider described below. The information relevant to you depends on which service you use and what you do with it. A service may provide an additional privacy notice where more specific information is needed. If a specific notice applies to a feature, read it alongside this policy.
 
----
+This policy explains the types of information that may be processed, why processing takes place, how information may be shared, how long it may be retained, and the choices and rights that may be available to you. It is intended to describe our general practices and is not legal advice.
 
-## 1. Who controls your information?
+## 2. Who is responsible for your information?
 
-For data protection purposes, the person operating Yeeps ClubHouse is responsible for the personal information processed through the website.
+The person or organisation operating the relevant Yeeps ClubHouse service is responsible for the personal information processed through that service, subject to the circumstances and applicable law. For the current Yeeps ClubHouse website, the public service address is https://www.yeepsclubhouse.website.
 
-**Website:** https://www.yeepsclubhouse.website
+For privacy questions or requests, contact **british_personn on Discord**. We may need to ask for reasonable information to confirm that a request relates to you. Please do not send passwords, authentication codes, payment details, or other sensitive information in an initial message.
 
-**Privacy contact:** Discord username **british_personn**
+The operator should provide any legally required controller name and additional contact details in the service-specific notice or this policy. A Discord username is a contact route and may not, by itself, provide all details required by applicable data-protection law.
 
-If you have a question about your personal information, please contact the operator through Discord at **british_personn**. Please include enough information for us to understand your request, but do not send passwords, authentication codes, financial information, or other sensitive information in a Discord message or you will be blocked and reported.
+## 3. Information we may collect
 
----
+The information processed depends on the service, the features you use, and the choices you make. We may receive information directly from you, from a platform you use to sign in or communicate with us, from the operation of our services, and from security or moderation providers.
 
-## 2. What information do we collect?
+### Account and identity information
 
-The information we collect depends on how you use Yeeps ClubHouse.
+If a service supports accounts or sign-in through a third-party platform such as Discord, we may receive and use account identifiers, usernames, display names, profile images, relevant platform roles or permissions, and information needed to associate activity with the correct account. We may also process account settings, role assignments, and records of changes to an account. We do not need your Discord password to use Discord OAuth sign-in.
 
-### 2.1 Discord account information
+### Content and information you submit
 
-When you sign in using Discord, Yeeps ClubHouse receives information from Discord that is necessary to identify your account and operate the website.
+When you submit, upload, publish, edit, or report content, we may process the information included in that action. Depending on the feature, this can include text, descriptions, URLs, tags, images, icons, banners, attachments, profile or creator information, ownership details, report reasons, and related timestamps. If content is sent to moderators or submitted through a Discord-based workflow, information needed to review the submission may also be shared with the relevant moderation team.
 
-This can include:
+Content intended to appear publicly may be visible to other users and may be copied, indexed, cached, or republished by third parties. Do not submit information you do not have permission to share or that you do not want to become public.
 
-- Discord user ID;
-- Discord username;
-- Discord global display name, where available;
-- Discord avatar;
-- Discord-related role information used by Yeeps ClubHouse for permissions;
-- information needed to maintain your website session.
+### Usage and activity information
 
-Our database stores a Discord user ID as the primary identifier for website users. We do not need your Discord password.
+Our services may record information about how features are used, such as page views, clicks, favourites, searches, submitted forms, feature interactions, and the times at which those actions occur. Where relevant, activity may be associated with an account so that we can provide requested features, display statistics, remember preferences, investigate reports, or prevent abuse.
 
-Discord remains responsible for the information it processes through its own service. You should also review Discord's privacy information.
+### Technical, session, and security information
 
-### 2.2 Website sessions
+To keep services working and protect them against misuse, we may process session identifiers, session creation and expiry information, request and error details, diagnostic logs, browser or device information made available to the service, and security events. Depending on the feature, we may also use rate-limiting records and a hashed representation of an IP address to help identify repeated or automated abuse. A hash is a security measure, not a guarantee that information can never be linked back to a person.
 
-To keep you signed in, Yeeps ClubHouse stores a session identifier associated with your Discord account.
+Logs and diagnostics may incidentally contain identifiers, URLs, filenames, processing results, or other information associated with an operation. We aim to limit such information to what is reasonably needed for troubleshooting, reliability, and security.
 
-The session records include:
+### Moderation and administrative records
 
-- session ID;
-- Discord user ID;
-- session creation time;
-- session expiry time.
+If content or conduct is reviewed, we may keep the material under review, relevant account or submission identifiers, reports, moderation results, matched terms, decisions, reasons, appeal or change-request information, and records of actions taken by authorised moderators or staff. These records help us apply service rules consistently, protect users, and investigate disputes or abuse.
 
-Session identifiers are used to authenticate your requests and are not intended to be used as a public profile identifier.
+### Communications and notifications
 
-### 2.3 Web Explorer information
+If a service sends notifications through Discord or another supported channel, we may process the recipient's platform identifier, the notification type and content, the related account or submission, delivery status, retry information, message identifiers, and error records. We use these records to deliver service messages and diagnose failed deliveries.
 
-If you submit or manage a website through the Yeeps ClubHouse Web Explorer, we may store:
+## 4. How we use information
 
-- website name;
-- website URL;
-- short description;
-- long description;
-- category;
-- tags;
-- submitter name;
-- submitter Discord username;
-- submitter Discord user ID;
-- optional Discord server information;
-- optional creator role;
-- submission status;
-- moderation and review information;
-- rejection or change-request reasons where applicable;
-- website ownership information;
-- website icon and banner URLs;
-- other images associated with the website;
-- website creation and update timestamps.
+We use information to provide and maintain the services you request, authenticate accounts, remember sessions and preferences, associate actions with the appropriate account, publish and manage user-submitted content, and deliver features such as directories, search, favourites, statistics, or notifications where those features are available.
 
-Website submissions are stored so that they can be reviewed, moderated, imported into the Web Explorer, displayed to users, and managed by their owners.
+We may also use information to review content and reports, enforce community rules, prevent spam and fraud, investigate security incidents, manage staff permissions, troubleshoot errors, improve reliability and usability, understand service usage, respond to privacy requests, resolve disputes, and comply with applicable legal obligations. We do not sell personal information to advertisers.
 
-### 2.4 Web Explorer statistics and activity
+We aim to use information only in ways that are relevant to these purposes. If we intend to use information for a materially different purpose, we will provide additional information or seek consent where required by law.
 
-The Web Explorer can record operational statistics such as:
+## 5. Legal bases for processing
 
-- website page views;
-- website clicks;
-- favourites;
-- click timestamps;
-- the Discord user ID associated with a click when the visitor is signed in;
-- search queries entered into the Web Explorer;
-- search timestamps.
+Where UK data-protection law applies, we must have a lawful basis for processing personal information. The appropriate basis depends on the particular activity and circumstances.
 
-These records are used to operate the Web Explorer, provide statistics to website owners, improve the service, investigate abuse, and understand how the Web Explorer is being used.
+We may process information because it is necessary to provide an account or feature you request, or to take steps at your request before providing that feature. We may rely on legitimate interests where processing is reasonably necessary to operate, secure, moderate, maintain, and improve our services, provided those interests are not overridden by your rights and freedoms. We may process information to comply with a legal obligation, or rely on consent where we have asked for it and consent is the appropriate basis.
 
-Where activity can be associated with a signed-in Discord account, it may be linked to that account through its Discord user ID.
+Where we rely on legitimate interests, those interests may include protecting users, preventing abuse, maintaining service integrity, and defending legal claims. You may have the right to object to some processing, as explained below.
 
-### 2.5 Website reports
+## 6. How information may be shared
 
-If you report a website, we may store:
+We do not sell personal information. We may disclose or transmit information where it is necessary to operate a feature, provide a service, protect users, or meet a legal requirement. The recipients involved depend on the feature you use.
 
-- the website being reported;
-- your Discord user ID;
-- the reason supplied in the report;
-- the date and time of the report.
+**Platforms such as Discord.** If you choose Discord sign-in or use Discord-based features, information is exchanged with Discord to authenticate your account or deliver communications. Where submissions are reviewed through a Discord forum, channel, or moderation workflow, relevant submission details and identifiers may be sent to the relevant server or moderation team. Discord processes information under its own terms and privacy policy, and information posted to a Discord space may be visible to people with access to that space.
 
-Reports are used to investigate potentially inappropriate, misleading, unsafe, or otherwise problematic content.
+**Hosting, database, and infrastructure providers.** Our services rely on hosting, storage, database, and other infrastructure providers to run websites, process requests, and store records. Those providers may process information on our behalf as part of providing their services. The providers used may change as the project develops; the service-specific notice or relevant provider documentation should be consulted for current details.
 
-### 2.6 Submission security and rate limiting
+**Image storage and analysis.** Some services may use Cloudinary to store or deliver submitted images and Sightengine to analyse images for moderation or safety purposes. Where those features are used, image files or image URLs and the information necessary to process them may be sent to the relevant provider. Images used as public icons, banners, or other published content should be treated as public, not as private file storage. Cloudinary and Sightengine have their own privacy terms and retention practices.
 
-To protect the Web Explorer from spam and abuse, Yeeps ClubHouse uses rate-limiting records.
+**URL and security scanning providers.** To assess whether submitted URLs may be unsafe, the Web Explorer's URL-security checks may send URLs or related scan information to VirusTotal, Cloudflare URL Scanner, and urlscan.io. Depending on the provider and scan settings, submitted URLs and scan results may be stored by that provider or made available through its services. Do not submit private, secret, or access-controlled URLs unless you understand and accept the implications of sending them to a scanning service. These providers process information under their own terms and policies.
 
-These can include:
+**Moderators and authorised staff.** Information may be made available to moderators or authorised staff when needed to review submissions, handle reports, manage permissions, investigate abuse, provide support, or maintain a service. Access should be limited to people who need the information for those tasks.
 
-- Discord user ID;
-- a hashed representation of an IP address;
-- submission attempt information;
-- whether an attempt succeeded;
-- whether an attempt was blocked;
-- the reason an attempt was blocked;
-- related submission ID, where applicable;
-- timestamps;
-- cooldown and strike information.
+We may also disclose information where required by law, in response to valid legal process, to protect rights or safety, or to establish, exercise, or defend legal claims. If a service is reorganised or transferred, information may be handled as part of that change where permitted by law and with appropriate safeguards.
 
-IP addresses used for these protections are stored as hashes rather than as the original IP address.
+## 7. International transfers
 
-The hashed IP information is used for security, abuse prevention, rate limiting, and investigation of repeated automated or abusive submission attempts.
+Our service providers may store or access information in countries outside the United Kingdom. Data-protection rules in those countries may differ from UK rules. Where UK data-protection law requires safeguards for an international transfer, we intend to use an appropriate lawful transfer mechanism. Provider locations, subprocessors, and safeguards may change, so users should review the current privacy information supplied by the relevant provider.
 
-### 2.7 Moderation information
+## 8. Cookies, sessions, and similar technologies
 
-Website content may be processed through Yeeps ClubHouse's moderation systems.
+Some services use cookies or similar technologies to maintain a signed-in session, remember settings, protect forms, or support essential functionality. For example, a website may store a session identifier in your browser so that requests can be associated with your account. Such a session identifier is used for authentication and service operation, not intended as a public profile identifier.
 
-Depending on the feature being used, moderation records can include:
+The cookies and technologies used depend on the service. If a service introduces non-essential analytics, advertising, or other tracking technologies, we will provide information and obtain consent where required by law. Browser settings may allow you to control or remove cookies, although blocking essential session cookies can prevent parts of a service from working.
 
-- the text being checked;
-- structured submission/edit information;
-- moderation status;
-- moderation result;
-- matched terms;
-- processing attempts;
-- worker/processing information;
-- error information;
-- timestamps.
+## 9. Public content and third-party websites
 
-The purpose of this processing is to help keep user-submitted content within the rules of Yeeps ClubHouse.
+Some services allow you to publish content that other people can view. Before submitting content, consider whether it includes personal details, confidential information, or material about someone else. You are responsible for having the rights and permissions needed to submit the content. We may remove or restrict content where required by our rules, safety needs, or applicable law.
 
-### 2.8 Discord notifications
+Services may link to websites, applications, or content operated by third parties. Those third parties control their own services and privacy practices. Our inclusion of a link does not mean we control or endorse the linked service. Review the relevant third-party privacy information before providing information to it.
 
-Yeeps ClubHouse can queue notifications for Discord users. The notification queue can contain:
+Deleting a post, account, or submission may not remove copies that other users have already downloaded, cached, quoted, indexed, or republished. We may also retain limited information where reasonably necessary for security, moderation, dispute resolution, legal compliance, or the defence of legal claims.
 
-- Discord user ID;
-- notification type;
-- a reference to the related website or submission record;
-- notification content/payload;
-- delivery status;
-- retry information;
-- Discord message ID, where applicable;
-- timestamps and error information.
+## 10. How long we keep information
 
-These records are used to reliably deliver service-related Discord notifications and avoid losing notifications when Discord rate limits or temporary errors occur.
+We keep personal information for no longer than is reasonably necessary for the purpose for which it was collected, unless a longer period is required or permitted for legal, security, dispute-resolution, or other legitimate reasons. There is no single retention period that applies to every service or every type of record.
+
+For example, session information may be kept until a session expires or is invalidated. Account and published-content records may be retained while an account or listing is active or while the information is needed to administer the service. Reports and moderation records may be retained for as long as needed to investigate incidents, apply rules, and resolve disputes. Rate-limit and security records may be retained for a period needed to detect repeated abuse and protect the service. Usage statistics and notification records may be retained while they are needed to provide features, diagnose problems, or maintain reliable operation.
+
+When information is no longer needed, we may delete it or irreversibly anonymise it, where practical. Backups, security records, and information held by third-party providers may persist for a limited period under their own retention arrangements. Actual retention periods should be reviewed against the operation of each service and the contracts or settings used with its providers.
+
+## 11. Security
+
+We use reasonable technical and organisational measures intended to protect information, taking account of the nature of the information and the risks involved. Depending on the service, these measures may include authenticated sessions, access controls, database permissions, server-side validation, rate limiting, moderation checks, restricted staff functionality, and background processing controls.
+
+No online service or method of transmission can be guaranteed to be completely secure. If we become aware of a security incident involving personal information, we will assess it and take reasonable steps to contain and investigate it, reduce the risk of recurrence, and notify affected people or a supervisory authority where applicable law requires us to do so.
+
+## 12. Your privacy rights
+
+Depending on your circumstances and the law that applies, you may have the right to request access to personal information we hold about you, have inaccurate information corrected, request deletion, ask us to restrict certain processing, object to certain processing, receive certain information in a portable format, or withdraw consent where processing is based on consent. You may also have the right to receive information about how your data is used.
+
+These rights are not absolute and exceptions may apply. For example, we may need to retain some information for legal obligations, security, moderation, or the establishment or defence of legal claims. We may ask for information reasonably necessary to verify your identity and locate the relevant records before responding.
+
+To make a request, contact **british_personn on Discord** and explain which service, account, or information your request concerns. Please do not include passwords, authentication codes, payment details, or other sensitive information in your initial message. We will respond within the timeframe required by applicable law, or explain where an extension or other response is permitted.
+
+## 13. Children and age-related considerations
+
+Age requirements may differ between Yeeps ClubHouse services and the platforms or providers used with them. Users should comply with the applicable minimum-age requirements and terms of those services. We do not intend to collect personal information from children where doing so would be unlawful, and users should not submit sensitive personal information about themselves or other people through public descriptions, images, reports, or other user-generated content.
+
+If you believe that personal information has been provided to us inappropriately, contact us through the privacy contact above. A parent or legal guardian may contact us on a child's behalf where appropriate. We will assess the circumstances and take action where required by law.
+
+## 14. Automated checks and moderation
+
+Some services use automated tools to check submitted content, images, or URLs for spam, security risks, or possible violations of service rules. These tools may produce flags, scores, scan results, or recommendations that help us decide whether content needs review or action. Automated checks can be inaccurate, and the tools used depend on the feature and may change over time.
+
+Where a decision is made solely by automated processing and applicable law gives you a right to further information, human intervention, or an opportunity to challenge it, you can contact us using the privacy contact above. Not every automated check constitutes a decision of that kind, and the rights available depend on the circumstances.
+
+## 15. Complaints
+
+If you have a concern about how we handle personal information, please contact us first so we can investigate it. If UK data-protection law applies and you remain dissatisfied, you may complain to the UK's Information Commissioner's Office (ICO): https://ico.org.uk/. You may also have the right to complain to another competent supervisory authority depending on where you live and the law that applies.
+
+## 16. Changes to this policy
+
+We may update this policy when our services, features, providers, data practices, or legal obligations change. The current version should be made available through the relevant Yeeps ClubHouse service. We will take reasonable steps to draw attention to significant changes where appropriate. The effective date and last-updated date at the top indicate when this version was prepared.
+
+## 17. Contact
+
+For privacy questions, requests, or concerns, contact **british_personn on Discord**. You can also visit https://www.yeepsclubhouse.website for the current Yeeps ClubHouse website.
+
+For provider-specific details, consult the current privacy information of the relevant third party, including:
+
+- Discord: https://discord.com/privacy
+- Cloudinary: https://cloudinary.com/privacy
+- Sightengine: https://sightengine.com/policies/privacy
+- VirusTotal: https://docs.virustotal.com/docs/privacy-policy
+- Cloudflare: https://www.cloudflare.com/privacypolicy/
+- urlscan.io: https://urlscan.io/about/
 
 ---
 
-## 3. Why do we use your information?
-
-We use personal information for purposes including:
-
-1. **Authentication** — to allow users to sign in through Discord and maintain their website session.
-2. **Account management** — to associate websites, submissions, reports, favourites, and other actions with the correct account.
-3. **Web Explorer operation** — to publish, manage, search, and display websites submitted to the Web Explorer.
-4. **Moderation and safety** — to review submitted content and prevent harmful, abusive, spam, or otherwise prohibited material.
-5. **Security and abuse prevention** — to detect repeated or suspicious submission activity and enforce rate limits.
-6. **Service notifications** — to send relevant Discord notifications about actions or submissions.
-7. **Statistics and service improvement** — to understand website views, clicks, searches, and other operational activity.
-8. **Technical operation** — to diagnose errors, maintain the website, and keep the service reliable.
-9. **Legal compliance** — where processing is necessary to comply with applicable legal obligations or to establish, exercise, or defend legal claims.
-
-We do not use the information collected by Yeeps ClubHouse to sell personal data to advertisers.
-
----
-
-## 4. Lawful bases for processing
-
-Where UK data protection law applies, the lawful basis used will depend on the particular processing activity.
-
-The intended bases include:
-
-- **Performance of a contract / taking steps at the user's request** where processing is necessary to provide an account or requested website feature.
-- **Legitimate interests** where processing is necessary to operate, secure, moderate, maintain, and improve Yeeps ClubHouse, provided those interests are not overridden by the user's rights and freedoms.
-- **Legal obligation** where processing is required to comply with applicable law.
-- **Consent** where we specifically ask for consent and consent is the appropriate legal basis.
-
-The exact lawful basis can differ between individual processing activities.
-
----
-
-## 5. Who do we share information with?
-
-Yeeps ClubHouse does not sell user personal information.
-
-We may share or transmit information to service providers where this is necessary to provide a feature or operate the website.
-
-### Discord
-
-Discord is used for authentication and Discord-based communications. Yeeps ClubHouse receives relevant Discord account information through the Discord OAuth process and may send service-related notifications through Discord.
-
-Discord has its own privacy policy and terms.
-
-### Cloudinary
-
-Yeeps ClubHouse uses Cloudinary to store and deliver website images such as website icons, banners, and other Web Explorer images.
-
-Image URLs may therefore point to Cloudinary rather than directly to the Yeeps ClubHouse server.
-
-Cloudinary states that uploaded content can contain personal information and that its cloud services can process and store information in multiple regions, including the European Union, United States, United Kingdom, Singapore, and Israel. Cloudinary also states that it participates in the UK Extension to the EU-US Data Privacy Framework. Users should avoid uploading personal or sensitive information into website images unless they have the necessary rights and permissions. See Cloudinary's current privacy policy for more information.
-
-### Sightengine
-
-Yeeps ClubHouse uses Sightengine for image analysis/moderation.
-
-When an image is submitted for moderation, the relevant image data may be transmitted to Sightengine so that its image-analysis services can inspect it. Sightengine's documentation confirms that its APIs support direct image uploads as well as image URLs.
-
-Sightengine's own privacy policy explains that subscriber data can be processed on behalf of customers and that retention depends on the services and applicable subscription arrangements.
-
-We only use Sightengine where its processing is needed for image moderation or related safety functionality.
-
----
-
-## 6. International transfers
-
-Some service providers used by Yeeps ClubHouse may process information outside the United Kingdom.
-
-For example, Cloudinary states that it processes or accesses information in several regions, including the United States and European Union, and describes safeguards it uses for international transfers.
-
-Where UK data protection law requires safeguards for an international transfer, we intend to use an appropriate lawful transfer mechanism.
-
-Because third-party providers can change their infrastructure and subprocessors, users should also review the current privacy information of those providers.
-
----
-
-## 7. Cookies and session technologies
-
-Yeeps ClubHouse uses session technology to keep authenticated users signed in.
-
-A session identifier may be stored in your browser and associated with your Discord account.
-
-We do not use the website's authentication session simply to build an advertising profile about you.
-
-If additional non-essential cookies or tracking technologies are introduced in the future, this Privacy Policy and, where required, the site's cookie information will be updated.
-
----
-
-## 8. How long do we keep information?
-
-We keep information only for as long as it is reasonably necessary for the purpose for which it was collected, unless a longer period is required for legal, security, dispute-resolution, or other legitimate reasons.
-
-Different information can therefore have different retention periods.
-
-Examples include:
-
-- **Sessions:** kept until they expire or are otherwise invalidated.
-- **Website records:** generally kept while the website is listed or while the information is needed to administer the Web Explorer, including moderation and ownership history.
-- **Reports and moderation records:** retained for as long as reasonably necessary to investigate abuse, maintain moderation records, protect the service, or resolve disputes.
-- **Security/rate-limit records:** retained as reasonably necessary to prevent abuse and maintain service security.
-- **Statistics:** retained while needed to provide website statistics and operate/improve the Web Explorer.
-- **Notification queue records:** retained as needed to deliver notifications, diagnose failures, and maintain reliable notification processing.
-
-Where information is no longer required and there is no legal or legitimate reason to retain it, we may delete or anonymise it.
-
-Third-party providers may have their own retention periods. Their current policies and contractual arrangements govern those periods.
-
----
-
-## 9. Your data protection rights
-
-Depending on the circumstances and applicable law, you may have rights including:
-
-- the right to be informed about how your information is used;
-- the right to request access to personal information we hold about you;
-- the right to request correction of inaccurate information;
-- the right to request deletion of information in certain circumstances;
-- the right to request restriction of processing in certain circumstances;
-- the right to object to certain processing;
-- the right to data portability where applicable;
-- the right to withdraw consent where processing is based on consent.
-
-These rights are not absolute and exceptions can apply.
-
-To exercise a right, contact us through Discord at **british_personn**. Please do not include passwords, authentication codes, financial information, or other sensitive information in your initial message. Please state what country you live in if you intend to excercise these rights.
-
-We may need to verify your identity (and ownership of your data) before completing a request, particularly where the request would disclose personal information.
-
----
-
-## 10. How to make a privacy request
-
-You can contact us through Discord at **british_personn** to ask a question, exercise a data protection right, or report a privacy concern. Please identify the account, website submission, or information concerned where possible.
-
-We may ask for reasonable additional information to verify that a request relates to you. This helps us avoid disclosing or deleting another person's information. We will respond within the period required by applicable law, or explain if an extension or refusal is permitted.
-
-If you contact us through Discord, the message itself may be processed by Discord and may be retained in your Discord account or our records as necessary to handle the request.
-
-## 11. Complaints
-
-If you are unhappy with how Yeeps ClubHouse has handled your personal information, please contact us first using the privacy contact above so that we can investigate the issue.
-
-If you are in the United Kingdom and remain dissatisfied, you can complain to the **Information Commissioner's Office (ICO)**.
-
-The ICO's website is:
-
-https://ico.org.uk/
-
-The ICO is the UK's independent supervisory authority for data protection.
-
----
-
-## 12. Security incidents
-
-If we become aware of a security incident involving personal information, we will assess the incident and take reasonable steps to contain it, investigate what happened, restore the service, and reduce the risk of recurrence. Where applicable law requires notification to users or a supervisory authority, we will make that notification within the required timeframe.
-
-In the event of such an event.
-
-## 13. Security
-
-We take reasonable technical and organisational measures to protect information held by Yeeps ClubHouse.
-
-These measures can include:
-
-- authenticated sessions;
-- access controls;
-- database permissions;
-- server-side validation;
-- moderation systems;
-- rate limiting;
-- hashed IP information for submission-abuse controls;
-- background processing queues;
-- restricted staff functionality.
-
-No internet service can guarantee absolute security. If a security incident materially affects personal information, we will respond in accordance with applicable law.
-
----
-
-## 14. Children's privacy
-
-Yeeps ClubHouse is not intended to collect unnecessary personal information from children.
-
-Users should not submit sensitive personal information about themselves or other people through website descriptions, images, reports, or other user-generated content.
-
-If you believe that a child has provided personal information to Yeeps ClubHouse in a way that should not have happened, please contact us using the privacy contact above. If the minor in question cannot create a request, a legal guardian can act on their behalf and with their own, explicit permission.
-
----
-
-## 15. Third-party websites
-
-The Web Explorer contains links to websites submitted by users.
-
-Those websites are operated by their respective owners and may have their own privacy policies, cookies, analytics, advertising, or other data-processing practices.
-
-Yeeps ClubHouse is not responsible for the privacy practices of third-party websites merely because they are listed or linked through the Web Explorer.
-
-You should review the privacy policy of a third-party website before providing it with personal information.
-
----
-
-## 16. User-submitted images and content
-
-Users are responsible for ensuring that they have the necessary rights and permissions to submit images, text, logos, and other content.
-
-Do not upload:
-
-- passwords or authentication credentials;
-- private documents;
-- financial information;
-- sensitive personal information;
-- photographs of another person where you do not have the necessary permission;
-- other personal information that does not need to be publicly displayed.
-
-Images intended for the Web Explorer may be publicly accessible because they are used as website icons, banners, or other public website content.
-
-Cloudinary specifically warns that uploaded content can be publicly accessible by default within its service. Users should therefore treat Web Explorer images as public content rather than private storage.
-
-Removing an account or deleting a submission may not remove copies that have already been cached, downloaded, quoted, or republished by other people or third-party services. We may also retain limited records where necessary for security, moderation, dispute resolution, legal compliance, or the defence of legal claims.
-
-## 17. Automated processing and moderation
-
-Some submitted content may be checked by automated moderation or image-analysis tools. These checks may produce flags, scores, or other recommendations that are reviewed or used to help enforce the site's rules.
-
-Automated checks can be inaccurate. Where applicable law provides a right to human review or an opportunity to challenge a decision based solely on automated processing, you can contact us through Discord at **british_personn**.
-
----
-
-## 18. Changes to this Privacy Policy
-
-We may update this Privacy Policy when the website changes, when our data-processing practices change, when third-party services change, or when legal requirements change.
-
-The current version will be made available through Yeeps ClubHouse.
-
-Where a change is significant, we will take reasonable steps to bring the change to users' attention.
-
----
-
-## 19. Contact
-
-For privacy questions, data requests, or concerns about this policy:
-
-**Yeeps ClubHouse**  
-Website: https://www.yeepsclubhouse.website  
-Privacy contact: Discord **british_personn**
-
----
-
-## External privacy information
-
-For more information about the third-party services mentioned in this policy:
-
-- Cloudinary Privacy Policy: https://cloudinary.com/privacy
-- Sightengine Privacy Policy: https://sightengine.com/policies/privacy
-- UK Information Commissioner's Office: https://ico.org.uk/
-
----
-
-**Document version:** 1.0
+**Document version:** 2.0
