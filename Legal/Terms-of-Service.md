@@ -1,474 +1,213 @@
 # Yeeps ClubHouse Terms of Service
 
-**Effective date:** 24 September 2026  
-**Last updated:** 24 September 2026
+**Effective date of this revision:** To be confirmed when published  
+**Original Terms effective date:** 24 September 2026  
+**Last updated:** 23 October 2026
 
-These Terms of Service ("Terms") explain the rules for using Yeeps ClubHouse, including the Yeeps ClubHouse website, Web Explorer, Discord-connected features, and related services (collectively, the "Service").
+These Terms of Service ("Terms") explain the rules for using Yeeps ClubHouse, including its website, Web Explorer, APIs, Discord-connected features, community information pages and related services (collectively, the "Service"). They describe the conditions of use, the content users may submit, and the actions Yeeps ClubHouse may take to protect users and the Service.
 
-By accessing or using the Service, you agree to follow these Terms. If you do not agree with them, please do not use the Service.
+By accessing or using the Service, you agree to these Terms where a legally binding agreement can validly be formed. If you do not agree, do not use the Service. Nothing in these Terms is intended to remove consumer or other statutory rights that cannot lawfully be excluded or limited.
 
-> **Important:** These Terms are written to describe the current Yeeps ClubHouse service and community rules. They are not legal advice. The operator should review the final version and obtain appropriate legal advice if a legally enforceable contract is required.
+> **Publication note:** This is a proposed revision. Confirm the revision's effective date, operator details, governing law and contact arrangements before publishing it. This document is general drafting assistance, not legal advice.
 
 ---
 
 ## 1. About Yeeps ClubHouse
 
-Yeeps ClubHouse is a community project operated by its website owner. The Service includes the public website, supporting APIs, Discord-connected authentication and notifications, staff and community information pages, and the Web Explorer.
+Yeeps ClubHouse is a community project operated by the person or entity responsible for the website. The Service may include the public website, supporting APIs, Discord-connected authentication and notifications, staff and community information pages, Web Explorer listings, submission and editing tools, and moderation or reporting features. Not every feature is available at all times, and not every feature necessarily applies to every user.
 
-The Service may provide features including:
+Features may be added, changed, restricted, suspended or discontinued. Where a change materially affects users' rights or obligations, Yeeps ClubHouse will take reasonable steps to provide notice where appropriate and where required by law.
 
-- Discord-based authentication;
-- community and staff information pages;
-- the Yeeps ClubHouse Web Explorer;
-- user-submitted website listings;
-- website icons, banners and other submitted images;
-- website statistics and interaction features;
-- website reporting and moderation;
-- notifications relating to submissions or moderation;
-- other community or website features introduced over time.
-
-Some features may change, be removed, or be temporarily unavailable.
-
----
+The operator's identity and legally required contact details should be provided in Section 24 before publication. A Discord username alone may not be sufficient for every legal or formal notice.
 
 ## 2. Age requirements and protection of younger users
 
 ### 2.1 Minimum age
 
-You must be **at least 13 years old** to create or use an account on Yeeps ClubHouse.
+You must be at least 13 years old to use Yeeps ClubHouse, and you must meet any higher minimum age required by applicable law or by a third-party service you use to access the Service. Discord's own age requirements apply to Discord accounts and Discord-connected features. If you do not meet the applicable minimum age, you must not use the relevant account or feature.
 
-If the law where you live requires you to be older than 13 to use an online service or to provide consent for processing of your personal information, the higher minimum age applies.
+Yeeps ClubHouse is not intended to provide an account or community environment for children under 13. If the operator becomes aware that an account is being used by someone below the applicable minimum age, access may be restricted and relevant information handled in accordance with the Privacy Policy and applicable law.
 
-You must not create an account or use the Service if you do not meet the applicable minimum age.
+### 2.2 Safeguarding and younger users
 
-Yeeps ClubHouse does not intentionally provide an account or community environment for children under 13.
+All users must not groom, exploit, sexually target, threaten, harass or otherwise endanger a minor. Users must not solicit sexual or intimate material from minors, encourage exploitation, seek unnecessary private information, or use the Service to arrange harmful or exploitative contact. Sharing another person's private or identifying information without proper authority is prohibited.
 
-### 2.2 Users under 18
-
-Users who are 13–17 may use the Service where permitted by applicable law, but additional safety expectations apply.
-
-Users must not:
-
-- sexualise, groom, exploit, threaten or otherwise target minors;
-- request or encourage minors to send sexual, intimate or otherwise inappropriate material;
-- request unnecessary personal information from another user;
-- encourage another user to move a conversation to a private or unsafe environment for the purpose of exploitation or harassment;
-- share another person's private, confidential or identifying information;
-- expose younger users to sexual, pornographic, excessively graphic or otherwise inappropriate material;
-- use the Service to arrange sexual contact with a minor or to facilitate exploitation of a minor.
-
-Any content or behaviour that creates a safeguarding concern may be removed and reported to the appropriate parties where necessary.
+Content or behaviour that creates a safeguarding concern may be removed and access may be restricted. Where appropriate and lawful, relevant information may be preserved or reported to Discord, another relevant service, a safeguarding organisation or an appropriate authority.
 
 ### 2.3 Mature content
 
-Yeeps ClubHouse is **not intended to be a place for NSFW, pornographic, heavily sexualised, excessively graphic or gore-focused content**.
+Yeeps ClubHouse does not permit pornographic, sexually exploitative, heavily sexualised, excessively graphic or gore-focused content. This rule applies to text, usernames, website descriptions, URLs, images, GIFs, videos, icons, banners and other content submitted to or displayed through the Service. Links intentionally submitted to expose users to prohibited material are also prohibited.
 
-This prohibition applies to:
-
-- posts and submissions;
-- website listings;
-- images, GIFs and videos;
-- profile information where applicable;
-- usernames and display names;
-- website icons and banners;
-- links intentionally submitted to expose users to prohibited material.
-
-A website being listed in the Web Explorer does not mean Yeeps ClubHouse endorses all content available on that website.
-
----
+A website being listed, reviewed or featured in the Web Explorer does not mean Yeeps ClubHouse endorses it or guarantees that all material on it is suitable for every user.
 
 ## 3. Community conduct
 
-When using Yeeps ClubHouse, you agree to behave respectfully and responsibly.
+Users must behave lawfully, respectfully and responsibly. You must not use the Service to harass, bully, threaten, intimidate, stalk, doxx, defraud, exploit or deliberately provoke another person. Impersonating another person, staff member, organisation or service in a misleading or harmful way is prohibited.
 
-You must not:
+You must not spam, flood submissions, disrupt normal operation, promote content where promotion is not permitted, share another person's private or confidential information without authority, or submit information intended to create a safety, privacy or community risk. You must not use the Service to facilitate illegal activity, distribute malware or phishing material, run scams, steal credentials, or infringe another person's rights.
 
-1. Post offensive, inappropriate, NSFW, pornographic, excessively graphic, gore-focused or heavily sexualised content.
-2. Spam, flood chats, repeatedly submit content, or deliberately interfere with normal use of the Service.
-3. Promote content where promotion has not been permitted by the relevant moderators or community rules.
-4. Harass, bully, threaten, intimidate or deliberately provoke other users.
-5. Impersonate another person, member of staff, organisation or service without permission.
-6. Share personal, confidential or sensitive information belonging to another person without permission.
-7. Encourage or participate in doxxing, stalking or targeted harassment.
-8. Use malicious tools, bots, scripts or other systems to scam, doxx, harass, exploit or indecently expose another user.
-9. Attempt to bypass moderation, rate limits, access controls, security systems or other technical restrictions.
-10. Deliberately exploit an obvious loophole in the rules or Service instead of reporting it.
-11. Submit misinformation, private disputes, confidential information or sensitive personal drama where doing so creates a safety, privacy or community concern.
-12. Use the Service to facilitate illegal activity.
-13. Upload or submit content that you do not have the right or permission to use.
-14. Use another person's creations without their explicit permission where permission is required.
-15. Attempt to compromise, disrupt, overload or damage the Service or its infrastructure.
-16. Use the Service to distribute malware, phishing pages, scams or other harmful software or content.
-17. Circumvent a ban, suspension or other moderation action using another account or identity.
+You must not attempt to bypass moderation decisions, bans, rate limits, authentication, staff permissions, access controls or other technical restrictions. You must not exploit vulnerabilities, overload systems, damage infrastructure or use scripts, bots or other tools to interfere with the Service or harm users. You must not submit content you have no right or permission to use.
 
-We may also take action against behaviour that is not specifically listed above where it creates a comparable safety, security or community risk.
+This list gives examples rather than an exhaustive catalogue. Yeeps ClubHouse may take proportionate action against comparable conduct that creates a material safety, security, legal or community risk, subject to applicable law.
 
----
+## 4. Sensitive topics and area-specific rules
 
-## 4. Sensitive topics and community safety
+Some areas of the community may apply additional rules or restrictions to discussions that are likely to cause disruption, targeted harassment or significant conflict. Moderators may limit or stop discussions involving personal disputes, political or religious arguments, or other sensitive topics where reasonably necessary to maintain the relevant community space.
 
-The Yeeps ClubHouse community may place restrictions on discussions that are likely to create significant arguments, harassment or disruption.
-
-Moderators may stop or restrict discussions involving sensitive subjects, including political or religious arguments, personal drama or other topics where intervention is considered necessary to maintain the community environment.
-
-These restrictions may vary depending on the area of the Service and the circumstances.
-
----
+Such intervention is intended to manage the community environment; it does not mean every mention of a sensitive subject is automatically prohibited. Area-specific rules may supplement these Terms. If rules conflict, users should follow any more specific applicable rule unless it conflicts with law or these Terms.
 
 ## 5. Flashing and seizure-sensitive content
 
-Do not submit or distribute images, GIFs, videos or other media containing rapid flashing, strobing or similar visual effects without a clear and visible warning.
-
-Where possible, users should avoid submitting media that could create an avoidable risk for people who are sensitive to flashing lights.
-
----
+Do not submit or distribute media containing rapid flashing, strobing or similar visual effects without a clear and reasonably visible warning. Where possible, avoid media that creates an unnecessary risk for people sensitive to flashing lights. Yeeps ClubHouse may remove or restrict media that presents a safety concern even if a warning is present.
 
 ## 6. Website submissions and the Web Explorer
 
-The Web Explorer allows users to submit websites for consideration.
+The Web Explorer allows users to submit website listings for review. Submission does not guarantee approval, publication, continued availability or a particular position in search results. Yeeps ClubHouse may review submissions, request clarification, approve or reject listings, correct information, remove or replace images, hide or remove listings, restrict submissions, investigate reports and take action when a listing creates a legal, safety, security, privacy or community concern.
 
-Submitting a website does not guarantee that it will be published.
+Approval is not a guarantee that a website is safe, accurate, lawful, available, free from malware or suitable for every audience. Reviews and checks may be limited and may not identify every problem. Users should exercise caution when visiting external links.
 
-Yeeps ClubHouse may:
+### 6.1 Website ownership and authority
 
-- review submissions;
-- request additional information;
-- reject submissions;
-- approve submissions;
-- hide or remove listings;
-- modify or correct information where appropriate;
-- restrict submissions from particular accounts;
-- remove images or other content;
-- investigate reports;
-- take action where a listing violates these Terms or creates a safety, legal, security or community concern.
+You may submit or edit a website only if you own it or have permission or other lawful authority to manage the listing. Do not falsely claim ownership, impersonate a website operator, or attempt to gain control of a listing you are not authorised to manage. A false ownership claim may result in removal of the listing and restrictions on the account or submission.
 
-Approval does not mean that Yeeps ClubHouse has verified every statement made by the website owner or every part of the external website.
+### 6.2 Accuracy and prohibited listings
 
-### 6.1 Website ownership
+You should provide accurate, current and non-misleading information. Do not submit phishing pages, impersonation sites, fraudulent services, scam links, malicious downloads, credential theft pages, malware or URLs intended to expose users to prohibited content. You must not deliberately disguise the destination or purpose of a link to evade review.
 
-If you submit a website, you must have the authority to submit it or otherwise have permission from the relevant owner.
+Yeeps ClubHouse may use automated or third-party checks to help identify unsafe URLs or content. Such checks may be incomplete or produce incorrect results; a check does not amount to a guarantee of safety or endorsement.
 
-Where Yeeps ClubHouse provides ownership or editing features, you must only claim or edit a website that you are genuinely authorised to manage.
+## 7. User-submitted content and licence
 
-False ownership claims may result in removal of the listing and account or submission restrictions.
+You remain responsible for content you submit, including website names, descriptions, URLs, tags, categories, icons, banners, images, ownership information, reports and other material. You confirm that you have the rights, permissions and authority necessary to submit the material and to grant the licence described below. You must not knowingly submit material that is unlawful, malicious, misleading, infringing or in breach of these Terms.
 
-### 6.2 Accuracy
+You retain ownership of your original content. By submitting content, you grant Yeeps ClubHouse a non-exclusive, worldwide, royalty-free licence to host, store, reproduce, display, resize, format, transmit, review, moderate and otherwise process that content to the extent reasonably necessary to operate, secure, promote and maintain the Service, display listings, deliver requested features, investigate reports and enforce these Terms. This licence does not transfer ownership to Yeeps ClubHouse and does not authorise unrelated exploitation of your work.
 
-You should provide accurate and reasonably current information when submitting a website.
-
-Do not intentionally submit:
-
-- misleading website information;
-- fraudulent claims;
-- impersonation websites;
-- phishing pages;
-- malicious downloads;
-- scam services;
-- content designed to steal credentials or personal information.
-
----
-
-## 7. User-submitted content
-
-You remain responsible for content that you submit to Yeeps ClubHouse.
-
-This can include:
-
-- website names and descriptions;
-- URLs;
-- tags and categories;
-- icons;
-- banners;
-- other website images;
-- ownership information;
-- reports;
-- other information submitted through the Service.
-
-By submitting content, you confirm that:
-
-1. you have the necessary rights or permissions to submit it;
-2. it does not knowingly violate another person's rights;
-3. it does not knowingly contain unlawful or malicious material;
-4. it complies with these Terms.
-
-You grant Yeeps ClubHouse the permission reasonably necessary to host, display, resize, process, moderate and otherwise operate the submitted content as part of the Service.
-
-This permission is for operating Yeeps ClubHouse and does not transfer ownership of your original work to Yeeps ClubHouse.
-
----
+You may request removal of content you control using available features or by contacting the operator. Removing content from public view does not necessarily erase every backup, security log, moderation record or legally required record immediately. Any continued retention or use must be consistent with the Privacy Policy, this licence where applicable, and the law. Where content is no longer needed for the purposes described above, Yeeps ClubHouse should cease using it for those purposes, subject to legitimate retention requirements.
 
 ## 8. Images and external image services
 
-Images submitted to the Web Explorer may be processed through third-party services used for image hosting, delivery, analysis or moderation.
+Images submitted to the Web Explorer may be stored, delivered, resized, analysed or moderated using third-party services. The current policy identifies Cloudinary for image storage and delivery and Sightengine for image analysis or moderation; these disclosures must be checked against the live production configuration before publication. The Privacy Policy provides further information about personal information and third-party processing.
 
-Yeeps ClubHouse currently uses **Cloudinary** for website image storage/delivery and **Sightengine** for image analysis/moderation.
+Do not upload passwords, authentication secrets, private documents, financial information, unnecessary personal information, intimate images, or images of another person where you lack the necessary rights or permission. Images submitted for a public listing may be displayed publicly as part of the Service.
 
-Do not upload:
+## 9. Discord and other third-party services
 
-- passwords or authentication secrets;
-- private documents;
-- financial information;
-- unnecessary personal information;
-- intimate images;
-- images of another person where you do not have permission to submit them;
-- content that violates these Terms.
+Some features use Discord for authentication, community interaction or notifications. You must comply with Discord's applicable terms and community rules when using Discord. Yeeps ClubHouse does not ask you to provide your Discord password through the website. Discord is a separate service, and its availability, account restrictions, terms and privacy practices are outside Yeeps ClubHouse's control.
 
-Users should assume that images submitted for a public Web Explorer listing may be displayed publicly as part of the Service.
-
-Further information about personal information and external services is provided in the Yeeps ClubHouse Privacy Policy.
-
----
-
-## 9. Discord and authentication
-
-Some Yeeps ClubHouse features use Discord for authentication and/or notifications.
-
-You must comply with the applicable Discord Terms of Service and Community Guidelines when using Discord-connected features.
-
-Yeeps ClubHouse does not ask for or store your Discord password through the Yeeps ClubHouse website.
-
-If Discord prevents you from using its services or your Discord account is restricted, you may also be unable to use Discord-dependent Yeeps ClubHouse features.
-
-Discord is a separate service operated by Discord Inc. and/or its relevant entities. Your use of Discord is subject to Discord's own terms and policies.
-
----
+If Discord or another provider changes, restricts or discontinues a feature, related Yeeps ClubHouse functions may stop working or become limited. Third-party services may process information under their own terms and privacy notices. References to third-party providers do not mean Yeeps ClubHouse controls or endorses every service they provide.
 
 ## 10. Security and responsible reporting
 
-Do not attempt to damage, compromise or gain unauthorised access to Yeeps ClubHouse.
+Do not attempt to gain unauthorised access to accounts, databases, staff tools, private information or infrastructure. Do not bypass authentication or permissions, manipulate moderation systems, evade submission limits, exploit vulnerabilities for harm or personal gain, deploy destructive code, distribute malware, or deliberately overload the Service.
 
-This includes attempting to:
+If you discover a possible security vulnerability, report it privately through the designated security contact or the operator's published contact method. Include only the information reasonably necessary to explain and reproduce the issue. Do not access, alter, download or disclose other users' data, and do not publicly exploit a vulnerability while awaiting a response.
 
-- access another user's account;
-- access private database information;
-- bypass authentication;
-- bypass staff permissions;
-- manipulate moderation systems;
-- bypass submission limits;
-- exploit vulnerabilities for personal gain or to harm another user;
-- overload the website or its supporting services;
-- deploy malware or destructive code.
-
-If you discover a security vulnerability, report it responsibly to the Yeeps ClubHouse operator or the designated security contact rather than publicly exploiting it.
-
-For ordinary website bugs, please use the designated bug-reporting channel or reporting method provided by Yeeps ClubHouse rather than directly contacting development staff unless the issue is security-sensitive.
-
----
+For ordinary bugs, use the designated bug-reporting method where one is available. The operator should publish a clear security contact before launch or make the reporting route easy to find.
 
 ## 11. Moderation and enforcement
 
-Yeeps ClubHouse moderators and administrators may take action when these Terms or applicable community rules are broken.
+Yeeps ClubHouse may review, restrict, hide or remove content and may warn, suspend or ban users where reasonably necessary to enforce these Terms, protect users, protect the Service, address reports, respond to legal obligations or investigate security or safeguarding concerns. Actions may include warnings, content removal, rejected submissions, listing restrictions, feature restrictions, temporary suspension, Discord community restrictions, permanent bans or account removal.
 
-Possible actions include:
+The action taken may depend on the severity, context, frequency, evidence available, risk to users and any relevant history. Serious conduct—including exploitation of minors, credible threats, doxxing, credential theft, malware distribution, deliberate attacks or serious privacy violations—may justify immediate restrictions while the matter is investigated.
 
-- warning;
-- removal of content;
-- rejection of a website submission;
-- hiding or removing a website listing;
-- restricting a feature;
-- temporary suspension;
-- Discord timeout or equivalent community restriction;
-- permanent ban;
-- removal of an account;
-- reporting serious matters to relevant services or authorities where appropriate.
+Automated systems or third-party services may assist with detection, filtering or prioritisation. They may make mistakes. Where appropriate, a moderator may review the available information, but Yeeps ClubHouse does not promise human review of every item or report.
 
-The action taken may depend on the seriousness, frequency and circumstances of the behaviour.
+### 11.1 Review of moderation decisions
 
-Severe conduct, including exploitation of minors, serious threats, malicious attacks, doxxing, credential theft, malware distribution or other serious abuse, may result in immediate permanent removal.
+If you believe an action was applied incorrectly, you may contact the operator using the published contact method and request a review. Provide enough information to identify the relevant account, listing or decision, without sending passwords or unnecessary sensitive information. Yeeps ClubHouse may maintain a restriction during review where reasonably necessary to protect users, the Service or an ongoing investigation.
 
-Attempts to evade moderation may result in further restrictions.
-
----
+A review request does not guarantee that a decision will be reversed or that a response will be provided within a particular timeframe. Repeated, abusive or bad-faith requests may themselves be restricted. This process does not remove any rights users may have under applicable law.
 
 ## 12. Reports and safeguarding concerns
 
-Users should report content or behaviour that may violate these Terms.
+Users are encouraged to report content or behaviour that may violate these Terms. If someone appears to be at risk of exploitation, grooming, threats, doxxing or other serious harm, report the concern promptly through the available moderation or contact route. Do not put yourself or another person at risk by confronting a suspected offender or attempting to investigate independently.
 
-If you believe that a user is being exploited, threatened, groomed, doxxed or otherwise placed at serious risk, report the matter to a moderator as soon as possible.
+Yeeps ClubHouse may review reports, remove content, restrict access, preserve relevant records where appropriate, and refer a matter to a relevant service or authority when justified and lawful. Reports should be made honestly and in good faith. Knowingly false, malicious or harassing reports may lead to moderation action.
 
-Do not attempt to investigate or confront a suspected offender yourself if doing so could put you or another person at risk.
+## 13. Intellectual property and complaints
 
-Where necessary, Yeeps ClubHouse may preserve relevant information and make appropriate reports to third parties or authorities.
+Yeeps ClubHouse's original branding, software, design, text, graphics and other original materials belong to their respective rights holders. You must not copy, redistribute, modify or commercially exploit those materials in a way that infringes applicable rights, except where permission or law allows it.
 
----
+User-submitted material remains the property of its rights holder, subject to the licence in Section 7. Third-party websites listed in the Web Explorer remain the responsibility of their respective operators and are not owned by Yeeps ClubHouse merely because they are listed.
 
-## 13. Intellectual property
-
-Yeeps ClubHouse and its original branding, software, design, text, graphics and other original materials remain the property of their respective rights holders unless otherwise stated.
-
-You must not copy, redistribute, modify or commercially exploit Yeeps ClubHouse material in a way that infringes applicable rights.
-
-User-submitted material remains owned by its respective rights holder, subject to the limited licence described in these Terms.
-
-Third-party websites listed through the Web Explorer remain the responsibility of their respective owners and are not owned by Yeeps ClubHouse merely because they are listed.
-
----
+If you believe content on the Service infringes your copyright, trademark or other rights, contact the operator through the published contact method. Identify the material and its location, explain the right you believe has been infringed, provide enough information to assess the report, and include contact details suitable for a response. Do not include unnecessary sensitive personal information. Yeeps ClubHouse may remove or restrict disputed content while assessing a complaint and may request further information. This is an informal reporting route and does not replace any statutory procedure or remedy.
 
 ## 14. Third-party websites and links
 
-The Web Explorer may contain links to websites and services operated by other people or organisations.
+The Web Explorer may link to websites and services operated by third parties. Yeeps ClubHouse does not control those websites and does not guarantee their safety, accuracy, availability, legality, privacy practices or suitability for every user. A listing, approval, review or feature placement does not necessarily constitute endorsement of the website, its operators or its content.
 
-These websites are external to Yeeps ClubHouse.
+Use caution before visiting external websites, downloading files, submitting information or making payments. Report listings that appear malicious, deceptive, unsafe or inconsistent with these Terms. Your use of an external service is governed by its own terms and policies.
 
-Yeeps ClubHouse does not guarantee that an external website:
+## 15. Availability, changes and technical limitations
 
-- is safe;
-- is accurate;
-- is available;
-- is appropriate for every user;
-- is free from malware;
-- complies with applicable law;
-- follows the same privacy or community standards as Yeeps ClubHouse.
+Yeeps ClubHouse is a community project and may experience downtime, maintenance, bugs, performance issues, interrupted notifications, delayed processing, data loss or failures caused by hosting, Discord or other third-party providers. The operator will take reasonable steps to maintain the Service but does not guarantee uninterrupted or error-free operation.
 
-Users should exercise their own judgement before visiting external websites.
+Features may be changed, suspended or discontinued. Where practical, the operator may provide notice of material changes, but urgent security, safety, legal or operational issues may require immediate action. Nothing in this section excludes liability or obligations that cannot lawfully be excluded.
 
-A website being listed, reviewed, approved or featured does not necessarily constitute an endorsement of that website, its operators or its content.
+## 16. Accounts, access restrictions and removal
 
----
+You are responsible for keeping control of the account and authentication methods you use to access Yeeps ClubHouse. Do not share account access in a way that enables impersonation or evasion of restrictions, and promptly report suspected unauthorised use.
 
-## 15. Availability and technical limitations
+Yeeps ClubHouse may restrict or terminate access where reasonably necessary to enforce these Terms, protect users or infrastructure, prevent abuse, investigate incidents or comply with law. If an account is suspended, banned or deleted, associated listings or features may be hidden, disabled or removed. Public content, statistics, backups, reports, security logs and moderation records may be treated differently depending on their purpose and applicable retention requirements.
 
-Yeeps ClubHouse is a community project and may occasionally experience:
-
-- downtime;
-- maintenance;
-- bugs;
-- performance issues;
-- service interruptions;
-- data processing delays;
-- third-party service failures;
-- Discord or infrastructure outages.
-
-We will try to keep the Service operating reliably, but we do not guarantee uninterrupted availability.
-
-Features may be changed, suspended or discontinued.
-
----
-
-## 16. Account and access restrictions
-
-You are responsible for keeping control of any account or authentication method used to access Yeeps ClubHouse.
-
-Do not share access to an account in a way that allows another person to impersonate you or bypass restrictions.
-
-Yeeps ClubHouse may restrict or terminate access where reasonably necessary to:
-
-- enforce these Terms;
-- protect users;
-- protect the Service;
-- prevent abuse;
-- investigate security incidents;
-- comply with legal obligations;
-- respond to serious safeguarding concerns.
-
-Where appropriate, users may contact the operator to ask about a moderation or access decision.
-
----
+Users may contact the operator to ask about an account or listing decision. Requests to remove personal information will be handled under the Privacy Policy and applicable law; deletion may be subject to exceptions where retention is lawful or necessary.
 
 ## 17. Privacy
 
-Your use of Yeeps ClubHouse also involves the processing of personal information.
+Use of Yeeps ClubHouse involves the processing of information. The Privacy Policy explains the categories of information used, purposes, lawful bases where applicable, third-party providers, retention, international transfers, security measures and rights available to individuals.
 
-Please read the Yeeps ClubHouse Privacy Policy for information about:
+These Terms and the Privacy Policy serve different purposes. The Terms establish rules for using the Service and permissions relating to submitted content; the Privacy Policy explains personal-data processing. Neither document overrides rights or obligations imposed by applicable law.
 
-- what information is collected;
-- why it is used;
-- how it is stored;
-- retention;
-- Discord authentication;
-- Cloudinary;
-- Sightengine;
-- user rights;
-- security and other privacy matters.
+## 18. Contacting the operator and formal reports
 
-The Privacy Policy forms part of the information provided to users about the Service but does not replace these Terms.
+For questions about these Terms, moderation, privacy, safeguarding, security, intellectual-property complaints or website submissions, use the contact method published in Section 24. Include only information reasonably necessary to explain the issue. Do not send passwords, authentication codes, payment details, intimate material or other unnecessary sensitive information through Discord or an insecure channel.
 
----
+The operator should ensure that the published contact route is monitored and suitable for the types of report it invites. Where a report requires a formal legal process, the sender may need to use the procedure required by applicable law.
 
-## 18. Reporting and legal notices
+## 19. Personal information and harmful disclosures
 
-For questions about these Terms, privacy, moderation, safeguarding, website submissions, or other Yeeps ClubHouse concerns, use the contact method in Section 22.
+Do not publicly post unnecessary personal information, including home addresses, private telephone numbers, passwords, authentication codes, financial information, government identification numbers, private documents or another person's private information. Information about a school or workplace should not be shared where doing so could create a safety risk.
 
-When reporting a security vulnerability, safeguarding concern, or privacy issue, include only the information reasonably necessary to explain the issue. Do not send passwords, authentication codes, financial information, intimate material, or other unnecessary sensitive information through Discord.
+Yeeps ClubHouse may remove or restrict content where reasonably necessary to protect a user, enforce these Terms or comply with law. This does not guarantee that every disclosure will be detected immediately. If private information has been exposed, report it promptly through the available contact route.
 
----
+## 20. No guarantee of user-submitted information
 
-## 19. Prohibited personal information
+Yeeps ClubHouse is a platform for community-submitted information. Unless expressly stated otherwise, user-submitted descriptions, links, ownership claims, reviews and other information are not guaranteed to be complete, accurate, current, independently verified or suitable for every audience. Moderation and automated checks may reduce some risks but cannot eliminate them.
 
-For your own safety, you should not publicly post unnecessary personal information.
-
-This includes:
-
-- home addresses;
-- private telephone numbers;
-- passwords;
-- authentication codes;
-- financial information;
-- government identification numbers;
-- private school or workplace information where disclosure could create a safety risk;
-- another person's private information;
-- private photographs or documents.
-
-Yeeps ClubHouse staff may remove information where necessary to protect a user.
-
----
-
-## 20. No guarantee regarding user content
-
-Yeeps ClubHouse is a platform for community-submitted information.
-
-We do not guarantee that user-submitted information is:
-
-- complete;
-- accurate;
-- current;
-- suitable for every audience;
-- independently verified.
-
-Users should make their own decisions about whether to interact with external websites or content based on wether or
-not they are suitable for its general demographic or not.
-
----
+Users should use their own judgement before relying on a listing, visiting an external website, downloading content or sharing information. This section does not excuse deliberate misrepresentation by Yeeps ClubHouse or remove any responsibility that cannot lawfully be excluded.
 
 ## 21. Changes to these Terms
 
-These Terms may be updated when the Service changes, new features are introduced, community risks change, or legal requirements require an update.
+These Terms may be revised to reflect changes to the Service, community risks, features or legal requirements. The revision date and effective date should be updated when a new version is published. Where a change is material, Yeeps ClubHouse will take reasonable steps to notify users through an appropriate channel and, where legally required, seek renewed agreement before the change applies.
 
-The "Last updated" date at the beginning of this document will be changed when a substantive revision is made.
+If a user does not agree to revised Terms, they should stop using the affected Service. Continued use may indicate acceptance only where that is legally effective in the circumstances; it does not replace any consent, notice or agreement that the law requires to be obtained separately.
 
-Continued use of the Service after updated Terms are published may constitute acceptance of the updated Terms where legally permitted.
+## 22. Complaints and legal rights
 
----
+Users may raise a complaint through the operator's published contact method. The operator may ask for relevant details, review available records and explain the outcome where appropriate. Nothing in these Terms limits a user's ability to contact a regulator, seek independent advice or exercise a statutory right.
 
-## 22. Contact
+If any provision of these Terms is found unenforceable, the remaining provisions will continue to apply to the extent permitted by law. A failure to enforce a provision on one occasion does not automatically waive the right to enforce it later.
 
-If you need to contact Yeeps ClubHouse about these Terms, moderation, privacy, security, safeguarding, or website submissions, contact the operator through Discord using the username **british_personn**.
+## 23. Governing law and jurisdiction
 
-**Website:** https://www.yeepsclubhouse.website
+The governing law and courts for these Terms must be confirmed by the operator before publication, taking account of the operator's circumstances and the users to whom the Service is offered. Do not publish this section with the question unresolved. Any governing-law or jurisdiction term is subject to mandatory consumer protections and other applicable legal requirements.
 
-**Contact:** Discord username **british_personn**
+## 24. Operator identity and contact
 
----
+**Service:** Yeeps ClubHouse  
+**Website:** https://www.yeepsclubhouse.website  
+**Discord contact:** british_personn
 
-## 23. Governing law
+**Operator's legal name or identity:** To be confirmed before publication.  
+**Additional legally required contact details:** To be confirmed before publication.
 
-**[TO BE CONFIRMED BY THE OPERATOR / LEGAL REVIEW]**
+Before publishing, replace the confirmation notes with the correct operator information and ensure the contact method is monitored. A Discord username may be useful for community contact but may not satisfy every legal disclosure or formal notice requirement.
 
-The governing law and courts applicable to these Terms should be confirmed based on the operator's circumstances and the users to whom the Service is offered.
+## 25. Acceptance
 
----
+By accessing or using Yeeps ClubHouse, you confirm that you meet the applicable age requirements, have had an opportunity to read these Terms, and will follow the rules that apply to your use of the Service. You understand that content may be reviewed or removed and that access may be restricted when reasonably necessary to enforce these Terms or protect users and the Service.
 
-## 24. Acceptance
-
-By accessing or using Yeeps ClubHouse, you confirm that:
-
-- you meet the applicable minimum age requirements;
-- you have read and understood these Terms;
-- you agree to follow these Terms;
-- you will not knowingly use the Service for harmful, unlawful or abusive purposes;
-- you understand that moderation action may be taken when these Terms are broken.
-
-If you do not agree with these Terms, you should stop using the Service.
+If you do not agree with these Terms, do not use the Service. This acceptance clause does not remove rights that cannot lawfully be waived or replace any additional consent or agreement required by law.
 
 ---
 
