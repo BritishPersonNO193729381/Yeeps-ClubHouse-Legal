@@ -1,7 +1,6 @@
 # Yeeps ClubHouse Terms of Service
 
-**Effective date of this revision:** To be confirmed when published  
-**Original Terms effective date:** 24 September 2026  
+**Effective date** 24 September 2026  
 **Last updated:** 23 October 2026
 
 These Terms of Service ("Terms") explain the rules for using Yeeps ClubHouse, including its website, Web Explorer, APIs, Discord-connected features, community information pages and related services (collectively, the "Service"). They describe the conditions of use, the content users may submit, and the actions Yeeps ClubHouse may take to protect users and the Service.
