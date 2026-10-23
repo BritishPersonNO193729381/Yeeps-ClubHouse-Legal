@@ -1,6 +1,6 @@
 # Yeeps ClubHouse Privacy Policy
 
-**Effective date:** 23 October 2026  
+**Effective date:** 24 September 2026  
 **Last updated:** 23 October 2026
 
 ## 1. Introduction
