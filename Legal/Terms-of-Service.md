@@ -197,11 +197,6 @@ The governing law and courts for these Terms must be confirmed by the operator b
 **Website:** https://www.yeepsclubhouse.website  
 **Discord contact:** british_personn
 
-**Operator's legal name or identity:** To be confirmed before publication.  
-**Additional legally required contact details:** To be confirmed before publication.
-
-Before publishing, replace the confirmation notes with the correct operator information and ensure the contact method is monitored. A Discord username may be useful for community contact but may not satisfy every legal disclosure or formal notice requirement.
-
 ## 25. Acceptance
 
 By accessing or using Yeeps ClubHouse, you confirm that you meet the applicable age requirements, have had an opportunity to read these Terms, and will follow the rules that apply to your use of the Service. You understand that content may be reviewed or removed and that access may be restricted when reasonably necessary to enforce these Terms or protect users and the Service.
